@@ -1,0 +1,42 @@
+[2021-08-21 22:16:59,063] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: testing_airflow.install_reqs 2021-08-21T00:00:00+00:00 [queued]>
+[2021-08-21 22:16:59,067] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: testing_airflow.install_reqs 2021-08-21T00:00:00+00:00 [queued]>
+[2021-08-21 22:16:59,068] {taskinstance.py:1087} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-21 22:16:59,068] {taskinstance.py:1088} INFO - Starting attempt 1 of 2
+[2021-08-21 22:16:59,068] {taskinstance.py:1089} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-21 22:16:59,073] {taskinstance.py:1107} INFO - Executing <Task(BashOperator): install_reqs> on 2021-08-21T00:00:00+00:00
+[2021-08-21 22:16:59,075] {standard_task_runner.py:52} INFO - Started process 26906 to run task
+[2021-08-21 22:16:59,082] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'testing_airflow', 'install_reqs', '2021-08-21T00:00:00+00:00', '--job-id', '52', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/Airflow.py', '--cfg-path', '/var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T/tmp3ckigfkb', '--error-file', '/var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T/tmppwxk5h8i']
+[2021-08-21 22:16:59,084] {standard_task_runner.py:77} INFO - Job 52: Subtask install_reqs
+[2021-08-21 22:16:59,115] {logging_mixin.py:104} INFO - Running <TaskInstance: testing_airflow.install_reqs 2021-08-21T00:00:00+00:00 [running]> on host 1.0.0.127.in-addr.arpa
+[2021-08-21 22:16:59,137] {taskinstance.py:1300} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=testing_airflow
+AIRFLOW_CTX_TASK_ID=install_reqs
+AIRFLOW_CTX_EXECUTION_DATE=2021-08-21T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-08-21T00:00:00+00:00
+[2021-08-21 22:16:59,138] {subprocess.py:52} INFO - Tmp dir root location: 
+ /var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T
+[2021-08-21 22:16:59,140] {subprocess.py:63} INFO - Running command: ['bash', '-c', 'pip install -r /Users/kennethlau/airflow/requirements.txt']
+[2021-08-21 22:16:59,146] {subprocess.py:74} INFO - Output:
+[2021-08-21 22:16:59,624] {subprocess.py:78} INFO - Requirement already satisfied: matplotlib==3.3.4 in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from -r /Users/kennethlau/airflow/requirements.txt (line 1)) (3.3.4)
+[2021-08-21 22:16:59,633] {subprocess.py:78} INFO - Requirement already satisfied: pandas==1.2.4 in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from -r /Users/kennethlau/airflow/requirements.txt (line 2)) (1.2.4)
+[2021-08-21 22:16:59,646] {subprocess.py:78} INFO - Requirement already satisfied: numpy==1.20.1 in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from -r /Users/kennethlau/airflow/requirements.txt (line 3)) (1.20.1)
+[2021-08-21 22:16:59,648] {subprocess.py:78} INFO - Requirement already satisfied: statsmodels==0.12.2 in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from -r /Users/kennethlau/airflow/requirements.txt (line 4)) (0.12.2)
+[2021-08-21 22:16:59,660] {subprocess.py:78} INFO - Requirement already satisfied: kiwisolver>=1.0.1 in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from matplotlib==3.3.4->-r /Users/kennethlau/airflow/requirements.txt (line 1)) (1.3.1)
+[2021-08-21 22:16:59,662] {subprocess.py:78} INFO - Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.3 in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from matplotlib==3.3.4->-r /Users/kennethlau/airflow/requirements.txt (line 1)) (2.4.7)
+[2021-08-21 22:16:59,663] {subprocess.py:78} INFO - Requirement already satisfied: pillow>=6.2.0 in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from matplotlib==3.3.4->-r /Users/kennethlau/airflow/requirements.txt (line 1)) (8.3.1)
+[2021-08-21 22:16:59,665] {subprocess.py:78} INFO - Requirement already satisfied: cycler>=0.10 in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from matplotlib==3.3.4->-r /Users/kennethlau/airflow/requirements.txt (line 1)) (0.10.0)
+[2021-08-21 22:16:59,666] {subprocess.py:78} INFO - Requirement already satisfied: python-dateutil>=2.1 in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from matplotlib==3.3.4->-r /Users/kennethlau/airflow/requirements.txt (line 1)) (2.8.2)
+[2021-08-21 22:16:59,668] {subprocess.py:78} INFO - Requirement already satisfied: pytz>=2017.3 in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from pandas==1.2.4->-r /Users/kennethlau/airflow/requirements.txt (line 2)) (2021.1)
+[2021-08-21 22:16:59,670] {subprocess.py:78} INFO - Requirement already satisfied: scipy>=1.1 in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from statsmodels==0.12.2->-r /Users/kennethlau/airflow/requirements.txt (line 4)) (1.7.1)
+[2021-08-21 22:16:59,672] {subprocess.py:78} INFO - Requirement already satisfied: patsy>=0.5 in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from statsmodels==0.12.2->-r /Users/kennethlau/airflow/requirements.txt (line 4)) (0.5.1)
+[2021-08-21 22:16:59,675] {subprocess.py:78} INFO - Requirement already satisfied: six in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from cycler>=0.10->matplotlib==3.3.4->-r /Users/kennethlau/airflow/requirements.txt (line 1)) (1.16.0)
+[2021-08-21 22:17:02,112] {subprocess.py:78} INFO - WARNING: You are using pip version 20.2.3; however, version 21.2.4 is available.
+[2021-08-21 22:17:02,113] {subprocess.py:78} INFO - You should consider upgrading via the '/Users/kennethlau/airflow/airflow-tutorial/env_airflow/bin/python3 -m pip install --upgrade pip' command.
+[2021-08-21 22:17:02,168] {subprocess.py:82} INFO - Command exited with return code 0
+[2021-08-21 22:17:02,182] {taskinstance.py:1204} INFO - Marking task as SUCCESS. dag_id=testing_airflow, task_id=install_reqs, execution_date=20210821T000000, start_date=20210822T021659, end_date=20210822T021702
+[2021-08-21 22:17:02,194] {taskinstance.py:1265} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-08-21 22:17:02,207] {local_task_job.py:149} INFO - Task exited with return code 0

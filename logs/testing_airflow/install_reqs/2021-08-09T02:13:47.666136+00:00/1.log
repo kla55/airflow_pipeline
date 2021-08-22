@@ -1,0 +1,62 @@
+[2021-08-15 20:24:22,078] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: testing_airflow.install_reqs 2021-08-09T02:13:47.666136+00:00 [queued]>
+[2021-08-15 20:24:22,082] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: testing_airflow.install_reqs 2021-08-09T02:13:47.666136+00:00 [queued]>
+[2021-08-15 20:24:22,082] {taskinstance.py:1087} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-15 20:24:22,082] {taskinstance.py:1088} INFO - Starting attempt 1 of 2
+[2021-08-15 20:24:22,082] {taskinstance.py:1089} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-15 20:24:22,087] {taskinstance.py:1107} INFO - Executing <Task(BashOperator): install_reqs> on 2021-08-09T02:13:47.666136+00:00
+[2021-08-15 20:24:22,088] {standard_task_runner.py:52} INFO - Started process 70496 to run task
+[2021-08-15 20:24:22,094] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'testing_airflow', 'install_reqs', '2021-08-09T02:13:47.666136+00:00', '--job-id', '38', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/Airflow.py', '--cfg-path', '/var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T/tmpn347dhn2', '--error-file', '/var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T/tmprobfi3zh']
+[2021-08-15 20:24:22,095] {standard_task_runner.py:77} INFO - Job 38: Subtask install_reqs
+[2021-08-15 20:24:22,124] {logging_mixin.py:104} INFO - Running <TaskInstance: testing_airflow.install_reqs 2021-08-09T02:13:47.666136+00:00 [running]> on host 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+[2021-08-15 20:24:22,149] {taskinstance.py:1300} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=testing_airflow
+AIRFLOW_CTX_TASK_ID=install_reqs
+AIRFLOW_CTX_EXECUTION_DATE=2021-08-09T02:13:47.666136+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-08-09T02:13:47.666136+00:00
+[2021-08-15 20:24:22,150] {subprocess.py:52} INFO - Tmp dir root location: 
+ /var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T
+[2021-08-15 20:24:22,150] {subprocess.py:63} INFO - Running command: ['bash', '-c', 'pip install -r /Users/kennethlau/airflow/requirements.txt']
+[2021-08-15 20:24:22,155] {subprocess.py:74} INFO - Output:
+[2021-08-15 20:24:23,371] {subprocess.py:78} INFO - Collecting matplotlib==3.3.4
+[2021-08-15 20:24:23,472] {subprocess.py:78} INFO -   Downloading matplotlib-3.3.4-cp38-cp38-macosx_10_9_x86_64.whl (8.5 MB)
+[2021-08-15 20:24:24,536] {subprocess.py:78} INFO - Collecting pandas==1.2.4
+[2021-08-15 20:24:24,555] {subprocess.py:78} INFO -   Downloading pandas-1.2.4-cp38-cp38-macosx_10_9_x86_64.whl (10.5 MB)
+[2021-08-15 20:24:26,435] {subprocess.py:78} INFO - Collecting numpy==1.20.1
+[2021-08-15 20:24:26,757] {subprocess.py:78} INFO -   Downloading numpy-1.20.1-cp38-cp38-macosx_10_9_x86_64.whl (16.0 MB)
+[2021-08-15 20:24:28,638] {subprocess.py:78} INFO - Collecting statsmodels==0.12.2
+[2021-08-15 20:24:29,394] {subprocess.py:78} INFO -   Downloading statsmodels-0.12.2-cp38-cp38-macosx_10_15_x86_64.whl (9.5 MB)
+[2021-08-15 20:24:31,069] {subprocess.py:78} INFO - Collecting pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.3
+[2021-08-15 20:24:31,077] {subprocess.py:78} INFO -   Using cached pyparsing-2.4.7-py2.py3-none-any.whl (67 kB)
+[2021-08-15 20:24:31,161] {subprocess.py:78} INFO - Collecting cycler>=0.10
+[2021-08-15 20:24:31,164] {subprocess.py:78} INFO -   Using cached cycler-0.10.0-py2.py3-none-any.whl (6.5 kB)
+[2021-08-15 20:24:31,186] {subprocess.py:78} INFO - Requirement already satisfied: python-dateutil>=2.1 in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from matplotlib==3.3.4->-r /Users/kennethlau/airflow/requirements.txt (line 1)) (2.8.2)
+[2021-08-15 20:24:32,116] {subprocess.py:78} INFO - Collecting pillow>=6.2.0
+[2021-08-15 20:24:32,140] {subprocess.py:78} INFO -   Downloading Pillow-8.3.1-cp38-cp38-macosx_10_10_x86_64.whl (2.9 MB)
+[2021-08-15 20:24:32,660] {subprocess.py:78} INFO - Collecting kiwisolver>=1.0.1
+[2021-08-15 20:24:32,690] {subprocess.py:78} INFO -   Downloading kiwisolver-1.3.1-cp38-cp38-macosx_10_9_x86_64.whl (61 kB)
+[2021-08-15 20:24:32,735] {subprocess.py:78} INFO - Requirement already satisfied: pytz>=2017.3 in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from pandas==1.2.4->-r /Users/kennethlau/airflow/requirements.txt (line 2)) (2021.1)
+[2021-08-15 20:24:33,191] {subprocess.py:78} INFO - Collecting scipy>=1.1
+[2021-08-15 20:24:33,212] {subprocess.py:78} INFO -   Downloading scipy-1.7.1-cp38-cp38-macosx_10_9_x86_64.whl (32.6 MB)
+[2021-08-15 20:24:36,570] {subprocess.py:78} INFO - Collecting patsy>=0.5
+[2021-08-15 20:24:36,574] {subprocess.py:78} INFO -   Using cached patsy-0.5.1-py2.py3-none-any.whl (231 kB)
+[2021-08-15 20:24:36,598] {subprocess.py:78} INFO - Requirement already satisfied: six in /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages (from cycler>=0.10->matplotlib==3.3.4->-r /Users/kennethlau/airflow/requirements.txt (line 1)) (1.16.0)
+[2021-08-15 20:24:39,336] {subprocess.py:78} INFO - Installing collected packages: numpy, pyparsing, cycler, pillow, kiwisolver, matplotlib, pandas, scipy, patsy, statsmodels
+[2021-08-15 20:24:39,337] {subprocess.py:78} INFO -   Attempting uninstall: numpy
+[2021-08-15 20:24:39,337] {subprocess.py:78} INFO -     Found existing installation: numpy 1.21.1
+[2021-08-15 20:24:39,793] {subprocess.py:78} INFO -     Uninstalling numpy-1.21.1:
+[2021-08-15 20:24:39,809] {subprocess.py:78} INFO -       Successfully uninstalled numpy-1.21.1
+[2021-08-15 20:24:43,732] {subprocess.py:78} INFO -   Attempting uninstall: pandas
+[2021-08-15 20:24:43,732] {subprocess.py:78} INFO -     Found existing installation: pandas 1.3.1
+[2021-08-15 20:24:45,152] {subprocess.py:78} INFO -     Uninstalling pandas-1.3.1:
+[2021-08-15 20:24:45,188] {subprocess.py:78} INFO -       Successfully uninstalled pandas-1.3.1
+[2021-08-15 20:24:55,121] {subprocess.py:78} INFO - Successfully installed cycler-0.10.0 kiwisolver-1.3.1 matplotlib-3.3.4 numpy-1.20.1 pandas-1.2.4 patsy-0.5.1 pillow-8.3.1 pyparsing-2.4.7 scipy-1.7.1 statsmodels-0.12.2
+[2021-08-15 20:24:55,533] {subprocess.py:78} INFO - WARNING: You are using pip version 20.2.3; however, version 21.2.4 is available.
+[2021-08-15 20:24:55,534] {subprocess.py:78} INFO - You should consider upgrading via the '/Users/kennethlau/airflow/airflow-tutorial/env_airflow/bin/python3 -m pip install --upgrade pip' command.
+[2021-08-15 20:24:55,605] {subprocess.py:82} INFO - Command exited with return code 0
+[2021-08-15 20:24:55,618] {taskinstance.py:1204} INFO - Marking task as SUCCESS. dag_id=testing_airflow, task_id=install_reqs, execution_date=20210809T021347, start_date=20210816T002422, end_date=20210816T002455
+[2021-08-15 20:24:55,635] {taskinstance.py:1265} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-08-15 20:24:55,669] {local_task_job.py:149} INFO - Task exited with return code 0

@@ -1,0 +1,100 @@
+[2021-08-15 20:24:16,503] {scheduler_job.py:181} INFO - Started process (PID=70476) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 20:24:16,503] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-15 20:24:16,503] {logging_mixin.py:104} INFO - [2021-08-15 20:24:16,503] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 20:24:16,530] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['testing_airflow']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 20:24:17,054] {logging_mixin.py:104} INFO - [2021-08-15 20:24:17,054] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-15 20:24:17,059] {logging_mixin.py:104} INFO - [2021-08-15 20:24:17,059] {dag.py:2306} INFO - Setting next_dagrun for testing_airflow to 2021-08-14 00:00:00+00:00
+[2021-08-15 20:24:17,066] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.564 seconds
+[2021-08-15 22:29:19,449] {scheduler_job.py:181} INFO - Started process (PID=71967) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:29:19,450] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-15 22:29:19,451] {logging_mixin.py:104} INFO - [2021-08-15 22:29:19,451] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:29:19,464] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['testing_airflow']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:29:19,812] {logging_mixin.py:104} INFO - [2021-08-15 22:29:19,812] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-15 22:29:19,817] {logging_mixin.py:104} INFO - [2021-08-15 22:29:19,817] {dag.py:1852} INFO - Creating ORM DAG for testing_airflow
+[2021-08-15 22:29:19,819] {logging_mixin.py:104} INFO - [2021-08-15 22:29:19,819] {dag.py:2306} INFO - Setting next_dagrun for testing_airflow to 2021-08-14 00:00:00+00:00
+[2021-08-15 22:29:19,829] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.381 seconds
+[2021-08-15 22:30:24,191] {scheduler_job.py:181} INFO - Started process (PID=72044) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:30:24,192] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-15 22:30:24,193] {logging_mixin.py:104} INFO - [2021-08-15 22:30:24,193] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:30:24,206] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['testing_airflow']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:30:24,250] {logging_mixin.py:104} INFO - [2021-08-15 22:30:24,249] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-15 22:30:24,259] {logging_mixin.py:104} INFO - [2021-08-15 22:30:24,259] {dag.py:2306} INFO - Setting next_dagrun for testing_airflow to 2021-08-14 00:00:00+00:00
+[2021-08-15 22:30:24,266] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.076 seconds
+[2021-08-15 22:31:11,662] {scheduler_job.py:181} INFO - Started process (PID=72106) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:31:11,663] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-15 22:31:11,664] {logging_mixin.py:104} INFO - [2021-08-15 22:31:11,663] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:31:11,672] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['testing_airflow']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:31:11,704] {logging_mixin.py:104} INFO - [2021-08-15 22:31:11,704] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-15 22:31:11,711] {logging_mixin.py:104} INFO - [2021-08-15 22:31:11,711] {dag.py:2306} INFO - Setting next_dagrun for testing_airflow to 2021-08-16 00:00:00+00:00
+[2021-08-15 22:31:11,717] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.056 seconds
+[2021-08-15 22:31:55,791] {scheduler_job.py:181} INFO - Started process (PID=72159) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:31:55,791] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-15 22:31:55,792] {logging_mixin.py:104} INFO - [2021-08-15 22:31:55,792] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:31:55,799] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['testing_airflow']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:31:55,827] {logging_mixin.py:104} INFO - [2021-08-15 22:31:55,827] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-15 22:31:55,834] {logging_mixin.py:104} INFO - [2021-08-15 22:31:55,834] {dag.py:2306} INFO - Setting next_dagrun for testing_airflow to 2021-08-16 00:00:00+00:00
+[2021-08-15 22:31:55,840] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.050 seconds
+[2021-08-15 22:32:27,567] {scheduler_job.py:181} INFO - Started process (PID=72191) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:32:27,570] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-15 22:32:27,570] {logging_mixin.py:104} INFO - [2021-08-15 22:32:27,570] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:32:27,578] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['testing_airflow']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:32:27,608] {logging_mixin.py:104} INFO - [2021-08-15 22:32:27,608] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-15 22:32:27,615] {logging_mixin.py:104} INFO - [2021-08-15 22:32:27,615] {dag.py:2306} INFO - Setting next_dagrun for testing_airflow to 2021-08-16 00:00:00+00:00
+[2021-08-15 22:32:27,622] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.055 seconds
+[2021-08-15 22:32:59,955] {scheduler_job.py:181} INFO - Started process (PID=72230) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:32:59,956] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-15 22:32:59,956] {logging_mixin.py:104} INFO - [2021-08-15 22:32:59,956] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:32:59,964] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['testing_airflow']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:32:59,988] {logging_mixin.py:104} INFO - [2021-08-15 22:32:59,988] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-15 22:32:59,994] {logging_mixin.py:104} INFO - [2021-08-15 22:32:59,994] {dag.py:2306} INFO - Setting next_dagrun for testing_airflow to 2021-08-16 00:00:00+00:00
+[2021-08-15 22:33:00,000] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.045 seconds
+[2021-08-15 22:34:00,268] {scheduler_job.py:181} INFO - Started process (PID=72298) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:34:00,269] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-15 22:34:00,269] {logging_mixin.py:104} INFO - [2021-08-15 22:34:00,269] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:34:00,275] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['testing_airflow']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:34:00,298] {logging_mixin.py:104} INFO - [2021-08-15 22:34:00,298] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-15 22:34:00,304] {logging_mixin.py:104} INFO - [2021-08-15 22:34:00,304] {dag.py:2306} INFO - Setting next_dagrun for testing_airflow to 2021-08-16 00:00:00+00:00
+[2021-08-15 22:34:00,311] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.043 seconds
+[2021-08-15 22:34:59,755] {scheduler_job.py:181} INFO - Started process (PID=72368) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:34:59,756] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-15 22:34:59,756] {logging_mixin.py:104} INFO - [2021-08-15 22:34:59,756] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:34:59,763] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['testing_airflow']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:35:00,039] {logging_mixin.py:104} INFO - [2021-08-15 22:35:00,039] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-15 22:35:00,046] {logging_mixin.py:104} INFO - [2021-08-15 22:35:00,046] {dag.py:2306} INFO - Setting next_dagrun for testing_airflow to 2021-08-16 00:00:00+00:00
+[2021-08-15 22:35:00,053] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.299 seconds
+[2021-08-15 22:35:58,507] {scheduler_job.py:181} INFO - Started process (PID=72386) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:35:58,507] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-15 22:35:58,508] {logging_mixin.py:104} INFO - [2021-08-15 22:35:58,507] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:35:58,515] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['testing_airflow']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:35:58,770] {logging_mixin.py:104} INFO - [2021-08-15 22:35:58,769] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-15 22:35:58,774] {logging_mixin.py:104} INFO - [2021-08-15 22:35:58,774] {dag.py:1852} INFO - Creating ORM DAG for testing_airflow
+[2021-08-15 22:35:58,776] {logging_mixin.py:104} INFO - [2021-08-15 22:35:58,776] {dag.py:2306} INFO - Setting next_dagrun for testing_airflow to 2021-08-14 00:00:00+00:00
+[2021-08-15 22:35:58,784] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.278 seconds
+[2021-08-15 22:37:14,238] {scheduler_job.py:181} INFO - Started process (PID=72499) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:37:14,238] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-15 22:37:14,239] {logging_mixin.py:104} INFO - [2021-08-15 22:37:14,239] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:37:14,245] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['testing_airflow']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:37:14,270] {logging_mixin.py:104} INFO - [2021-08-15 22:37:14,269] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-15 22:37:14,275] {logging_mixin.py:104} INFO - [2021-08-15 22:37:14,275] {dag.py:2306} INFO - Setting next_dagrun for testing_airflow to 2021-08-16 00:00:00+00:00
+[2021-08-15 22:37:14,281] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.044 seconds
+[2021-08-15 22:38:10,002] {scheduler_job.py:181} INFO - Started process (PID=72568) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:38:10,003] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-15 22:38:10,003] {logging_mixin.py:104} INFO - [2021-08-15 22:38:10,003] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:38:10,010] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['testing_airflow']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:38:10,034] {logging_mixin.py:104} INFO - [2021-08-15 22:38:10,034] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-15 22:38:10,040] {logging_mixin.py:104} INFO - [2021-08-15 22:38:10,040] {dag.py:2306} INFO - Setting next_dagrun for testing_airflow to 2021-08-16 00:00:00+00:00
+[2021-08-15 22:38:10,046] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.044 seconds
+[2021-08-15 22:39:05,363] {scheduler_job.py:181} INFO - Started process (PID=72642) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:39:05,365] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-15 22:39:05,365] {logging_mixin.py:104} INFO - [2021-08-15 22:39:05,365] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:39:05,373] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['testing_airflow']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:39:05,399] {logging_mixin.py:104} INFO - [2021-08-15 22:39:05,399] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-15 22:39:05,405] {logging_mixin.py:104} INFO - [2021-08-15 22:39:05,405] {dag.py:2306} INFO - Setting next_dagrun for testing_airflow to 2021-08-16 00:00:00+00:00
+[2021-08-15 22:39:05,411] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.048 seconds
+[2021-08-15 22:40:01,740] {scheduler_job.py:181} INFO - Started process (PID=72707) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:40:01,741] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-15 22:40:01,741] {logging_mixin.py:104} INFO - [2021-08-15 22:40:01,741] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:40:01,748] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['testing_airflow']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-15 22:40:01,772] {logging_mixin.py:104} INFO - [2021-08-15 22:40:01,772] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-15 22:40:01,778] {logging_mixin.py:104} INFO - [2021-08-15 22:40:01,778] {dag.py:2306} INFO - Setting next_dagrun for testing_airflow to 2021-08-16 00:00:00+00:00
+[2021-08-15 22:40:01,784] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.044 seconds

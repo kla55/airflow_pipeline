@@ -1,0 +1,57 @@
+[2021-08-15 20:25:09,324] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: testing_airflow.testing_airflow 2021-08-09T02:13:47.666136+00:00 [queued]>
+[2021-08-15 20:25:09,328] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: testing_airflow.testing_airflow 2021-08-09T02:13:47.666136+00:00 [queued]>
+[2021-08-15 20:25:09,328] {taskinstance.py:1087} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-15 20:25:09,328] {taskinstance.py:1088} INFO - Starting attempt 1 of 2
+[2021-08-15 20:25:09,328] {taskinstance.py:1089} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-15 20:25:09,333] {taskinstance.py:1107} INFO - Executing <Task(BashOperator): testing_airflow> on 2021-08-09T02:13:47.666136+00:00
+[2021-08-15 20:25:09,335] {standard_task_runner.py:52} INFO - Started process 70752 to run task
+[2021-08-15 20:25:09,342] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'testing_airflow', 'testing_airflow', '2021-08-09T02:13:47.666136+00:00', '--job-id', '41', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/Airflow.py', '--cfg-path', '/var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T/tmpkp2d4bwm', '--error-file', '/var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T/tmpz_8fh30f']
+[2021-08-15 20:25:09,344] {standard_task_runner.py:77} INFO - Job 41: Subtask testing_airflow
+[2021-08-15 20:25:09,374] {logging_mixin.py:104} INFO - Running <TaskInstance: testing_airflow.testing_airflow 2021-08-09T02:13:47.666136+00:00 [running]> on host 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+[2021-08-15 20:25:09,400] {taskinstance.py:1300} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=testing_airflow
+AIRFLOW_CTX_TASK_ID=testing_airflow
+AIRFLOW_CTX_EXECUTION_DATE=2021-08-09T02:13:47.666136+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-08-09T02:13:47.666136+00:00
+[2021-08-15 20:25:09,401] {subprocess.py:52} INFO - Tmp dir root location: 
+ /var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T
+[2021-08-15 20:25:09,401] {subprocess.py:63} INFO - Running command: ['bash', '-c', 'python /Users/kennethlau/Desktop/a_pipeline.py']
+[2021-08-15 20:25:09,407] {subprocess.py:74} INFO - Output:
+[2021-08-15 20:25:37,550] {subprocess.py:78} INFO - Traceback (most recent call last):
+[2021-08-15 20:25:37,551] {subprocess.py:78} INFO -   File "/Users/kennethlau/Desktop/a_pipeline.py", line 87, in <module>
+[2021-08-15 20:25:37,551] {subprocess.py:78} INFO -     main()
+[2021-08-15 20:25:37,552] {subprocess.py:78} INFO -   File "/Users/kennethlau/Desktop/a_pipeline.py", line 82, in main
+[2021-08-15 20:25:37,552] {subprocess.py:78} INFO -     series1 = read_csv('/Users/kennethlau/Desktop/Program_Exercise/Side_Projects/weather_prediction/temperature.csv', header=0, index_col=0, parse_dates=True,squeeze=True)
+[2021-08-15 20:25:37,552] {subprocess.py:78} INFO -   File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/pandas/io/parsers.py", line 610, in read_csv
+[2021-08-15 20:25:37,553] {subprocess.py:78} INFO -     return _read(filepath_or_buffer, kwds)
+[2021-08-15 20:25:37,553] {subprocess.py:78} INFO -   File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/pandas/io/parsers.py", line 462, in _read
+[2021-08-15 20:25:37,554] {subprocess.py:78} INFO -     parser = TextFileReader(filepath_or_buffer, **kwds)
+[2021-08-15 20:25:37,554] {subprocess.py:78} INFO -   File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/pandas/io/parsers.py", line 819, in __init__
+[2021-08-15 20:25:37,554] {subprocess.py:78} INFO -     self._engine = self._make_engine(self.engine)
+[2021-08-15 20:25:37,555] {subprocess.py:78} INFO -   File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/pandas/io/parsers.py", line 1050, in _make_engine
+[2021-08-15 20:25:37,555] {subprocess.py:78} INFO -     return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
+[2021-08-15 20:25:37,555] {subprocess.py:78} INFO -   File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/pandas/io/parsers.py", line 1867, in __init__
+[2021-08-15 20:25:37,556] {subprocess.py:78} INFO -     self._open_handles(src, kwds)
+[2021-08-15 20:25:37,556] {subprocess.py:78} INFO -   File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/pandas/io/parsers.py", line 1362, in _open_handles
+[2021-08-15 20:25:37,556] {subprocess.py:78} INFO -     self.handles = get_handle(
+[2021-08-15 20:25:37,557] {subprocess.py:78} INFO -   File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/pandas/io/common.py", line 642, in get_handle
+[2021-08-15 20:25:37,557] {subprocess.py:78} INFO -     handle = open(
+[2021-08-15 20:25:37,557] {subprocess.py:78} INFO - FileNotFoundError: [Errno 2] No such file or directory: '/Users/kennethlau/Desktop/Program_Exercise/Side_Projects/weather_prediction/temperature.csv'
+[2021-08-15 20:25:37,675] {subprocess.py:82} INFO - Command exited with return code 1
+[2021-08-15 20:25:37,681] {taskinstance.py:1501} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1157, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1331, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1361, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/operators/bash.py", line 176, in execute
+    raise AirflowException('Bash command failed. The command returned a non-zero exit code.')
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code.
+[2021-08-15 20:25:37,686] {taskinstance.py:1544} INFO - Marking task as UP_FOR_RETRY. dag_id=testing_airflow, task_id=testing_airflow, execution_date=20210809T021347, start_date=20210816T002509, end_date=20210816T002537
+[2021-08-15 20:25:37,728] {local_task_job.py:149} INFO - Task exited with return code 1

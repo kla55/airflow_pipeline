@@ -1,0 +1,28 @@
+[2021-08-21 22:44:30,913] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: weather_prediction_airflow.print_date 2021-08-20T00:00:00+00:00 [queued]>
+[2021-08-21 22:44:30,918] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: weather_prediction_airflow.print_date 2021-08-20T00:00:00+00:00 [queued]>
+[2021-08-21 22:44:30,918] {taskinstance.py:1087} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-21 22:44:30,918] {taskinstance.py:1088} INFO - Starting attempt 1 of 2
+[2021-08-21 22:44:30,918] {taskinstance.py:1089} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-21 22:44:30,923] {taskinstance.py:1107} INFO - Executing <Task(BashOperator): print_date> on 2021-08-20T00:00:00+00:00
+[2021-08-21 22:44:30,925] {standard_task_runner.py:52} INFO - Started process 27785 to run task
+[2021-08-21 22:44:30,932] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'weather_prediction_airflow', 'print_date', '2021-08-20T00:00:00+00:00', '--job-id', '67', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/Airflow.py', '--cfg-path', '/var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T/tmpo3m56ai1', '--error-file', '/var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T/tmpy5xe8gm1']
+[2021-08-21 22:44:30,934] {standard_task_runner.py:77} INFO - Job 67: Subtask print_date
+[2021-08-21 22:44:30,961] {logging_mixin.py:104} INFO - Running <TaskInstance: weather_prediction_airflow.print_date 2021-08-20T00:00:00+00:00 [running]> on host 1.0.0.127.in-addr.arpa
+[2021-08-21 22:44:30,983] {taskinstance.py:1300} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=weather_prediction_airflow
+AIRFLOW_CTX_TASK_ID=print_date
+AIRFLOW_CTX_EXECUTION_DATE=2021-08-20T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-08-20T00:00:00+00:00
+[2021-08-21 22:44:30,984] {subprocess.py:52} INFO - Tmp dir root location: 
+ /var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T
+[2021-08-21 22:44:30,984] {subprocess.py:63} INFO - Running command: ['bash', '-c', 'date']
+[2021-08-21 22:44:30,990] {subprocess.py:74} INFO - Output:
+[2021-08-21 22:44:30,995] {subprocess.py:78} INFO - Sat 21 Aug 2021 22:44:30 EDT
+[2021-08-21 22:44:30,995] {subprocess.py:82} INFO - Command exited with return code 0
+[2021-08-21 22:44:31,009] {taskinstance.py:1204} INFO - Marking task as SUCCESS. dag_id=weather_prediction_airflow, task_id=print_date, execution_date=20210820T000000, start_date=20210822T024430, end_date=20210822T024431
+[2021-08-21 22:44:31,022] {taskinstance.py:1265} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-08-21 22:44:31,030] {local_task_job.py:149} INFO - Task exited with return code 0

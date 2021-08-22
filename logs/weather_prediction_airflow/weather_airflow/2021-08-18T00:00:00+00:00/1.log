@@ -1,0 +1,45 @@
+[2021-08-21 22:44:37,147] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: weather_prediction_airflow.weather_airflow 2021-08-18T00:00:00+00:00 [queued]>
+[2021-08-21 22:44:37,151] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: weather_prediction_airflow.weather_airflow 2021-08-18T00:00:00+00:00 [queued]>
+[2021-08-21 22:44:37,151] {taskinstance.py:1087} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-21 22:44:37,151] {taskinstance.py:1088} INFO - Starting attempt 1 of 2
+[2021-08-21 22:44:37,151] {taskinstance.py:1089} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-21 22:44:37,157] {taskinstance.py:1107} INFO - Executing <Task(BashOperator): weather_airflow> on 2021-08-18T00:00:00+00:00
+[2021-08-21 22:44:37,160] {standard_task_runner.py:52} INFO - Started process 27794 to run task
+[2021-08-21 22:44:37,166] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'weather_prediction_airflow', 'weather_airflow', '2021-08-18T00:00:00+00:00', '--job-id', '69', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/Airflow.py', '--cfg-path', '/var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T/tmpdqysicpi', '--error-file', '/var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T/tmp9t90lxdx']
+[2021-08-21 22:44:37,168] {standard_task_runner.py:77} INFO - Job 69: Subtask weather_airflow
+[2021-08-21 22:44:37,197] {logging_mixin.py:104} INFO - Running <TaskInstance: weather_prediction_airflow.weather_airflow 2021-08-18T00:00:00+00:00 [running]> on host 1.0.0.127.in-addr.arpa
+[2021-08-21 22:44:37,225] {taskinstance.py:1300} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=weather_prediction_airflow
+AIRFLOW_CTX_TASK_ID=weather_airflow
+AIRFLOW_CTX_EXECUTION_DATE=2021-08-18T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-08-18T00:00:00+00:00
+[2021-08-21 22:44:37,226] {subprocess.py:52} INFO - Tmp dir root location: 
+ /var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T
+[2021-08-21 22:44:37,227] {subprocess.py:63} INFO - Running command: ['bash', '-c', 'python /Users/kennethlau/Desktop/programing_exercise/side_projects/weather_prediction/a_pipeline.py']
+[2021-08-21 22:44:37,234] {subprocess.py:74} INFO - Output:
+[2021-08-21 22:51:15,415] {local_task_job.py:183} WARNING - The recorded hostname 1.0.0.127.in-addr.arpa does not match this instance's hostname Kenneths-MacBook-Pro.local
+[2021-08-21 22:51:15,424] {process_utils.py:100} INFO - Sending Signals.SIGTERM to GPID 27794
+[2021-08-21 22:51:15,426] {taskinstance.py:1284} ERROR - Received SIGTERM. Terminating subprocesses.
+[2021-08-21 22:51:15,429] {subprocess.py:88} INFO - Sending SIGTERM signal to process group
+[2021-08-21 22:51:15,472] {taskinstance.py:1501} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1157, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1331, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1361, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/operators/bash.py", line 168, in execute
+    result = self.subprocess_hook.run_command(
+  File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/hooks/subprocess.py", line 76, in run_command
+    for raw_line in iter(self.sub_process.stdout.readline, b''):
+  File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1286, in signal_handler
+    raise AirflowException("Task received SIGTERM signal")
+airflow.exceptions.AirflowException: Task received SIGTERM signal
+[2021-08-21 22:51:15,481] {taskinstance.py:1544} INFO - Marking task as UP_FOR_RETRY. dag_id=weather_prediction_airflow, task_id=weather_airflow, execution_date=20210818T000000, start_date=20210822T024437, end_date=20210822T025115
+[2021-08-21 22:51:15,525] {process_utils.py:66} INFO - Process psutil.Process(pid=27795, status='terminated', started='22:44:37') (27795) terminated with exit code None
+[2021-08-21 22:51:15,526] {process_utils.py:66} INFO - Process psutil.Process(pid=27794, status='terminated', exitcode=1, started='22:44:37') (27794) terminated with exit code 1

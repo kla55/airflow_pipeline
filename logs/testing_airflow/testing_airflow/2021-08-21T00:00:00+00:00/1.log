@@ -1,0 +1,41 @@
+[2021-08-21 22:17:08,819] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: testing_airflow.testing_airflow 2021-08-21T00:00:00+00:00 [queued]>
+[2021-08-21 22:17:08,823] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: testing_airflow.testing_airflow 2021-08-21T00:00:00+00:00 [queued]>
+[2021-08-21 22:17:08,823] {taskinstance.py:1087} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-21 22:17:08,823] {taskinstance.py:1088} INFO - Starting attempt 1 of 2
+[2021-08-21 22:17:08,823] {taskinstance.py:1089} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-21 22:17:08,828] {taskinstance.py:1107} INFO - Executing <Task(BashOperator): testing_airflow> on 2021-08-21T00:00:00+00:00
+[2021-08-21 22:17:08,831] {standard_task_runner.py:52} INFO - Started process 26917 to run task
+[2021-08-21 22:17:08,836] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'testing_airflow', 'testing_airflow', '2021-08-21T00:00:00+00:00', '--job-id', '54', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/Airflow.py', '--cfg-path', '/var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T/tmp20h0jfmq', '--error-file', '/var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T/tmp_qwfl2s2']
+[2021-08-21 22:17:08,838] {standard_task_runner.py:77} INFO - Job 54: Subtask testing_airflow
+[2021-08-21 22:17:08,863] {logging_mixin.py:104} INFO - Running <TaskInstance: testing_airflow.testing_airflow 2021-08-21T00:00:00+00:00 [running]> on host 1.0.0.127.in-addr.arpa
+[2021-08-21 22:17:08,889] {taskinstance.py:1300} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=testing_airflow
+AIRFLOW_CTX_TASK_ID=testing_airflow
+AIRFLOW_CTX_EXECUTION_DATE=2021-08-21T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-08-21T00:00:00+00:00
+[2021-08-21 22:17:08,890] {subprocess.py:52} INFO - Tmp dir root location: 
+ /var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T
+[2021-08-21 22:17:08,891] {subprocess.py:63} INFO - Running command: ['bash', '-c', 'python /Users/kennethlau/Desktop/programing_exercise/side_projects/weather_prediction/a_pipeline.py']
+[2021-08-21 22:17:08,897] {subprocess.py:74} INFO - Output:
+[2021-08-21 22:17:09,799] {subprocess.py:78} INFO - Traceback (most recent call last):
+[2021-08-21 22:17:09,800] {subprocess.py:78} INFO -   File "/Users/kennethlau/Desktop/programing_exercise/side_projects/weather_prediction/a_pipeline.py", line 9, in <module>
+[2021-08-21 22:17:09,800] {subprocess.py:78} INFO -     from sklearn.metrics import mean_squared_error
+[2021-08-21 22:17:09,800] {subprocess.py:78} INFO - ModuleNotFoundError: No module named 'sklearn'
+[2021-08-21 22:17:09,884] {subprocess.py:82} INFO - Command exited with return code 1
+[2021-08-21 22:17:09,890] {taskinstance.py:1501} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1157, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1331, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1361, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/operators/bash.py", line 176, in execute
+    raise AirflowException('Bash command failed. The command returned a non-zero exit code.')
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code.
+[2021-08-21 22:17:09,893] {taskinstance.py:1544} INFO - Marking task as UP_FOR_RETRY. dag_id=testing_airflow, task_id=testing_airflow, execution_date=20210821T000000, start_date=20210822T021708, end_date=20210822T021709
+[2021-08-21 22:17:09,935] {local_task_job.py:149} INFO - Task exited with return code 1

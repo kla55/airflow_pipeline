@@ -1,0 +1,1001 @@
+[2021-08-02 14:42:47,285] {scheduler_job.py:181} INFO - Started process (PID=25818) to work on /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 14:42:47,285] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 14:42:47,286] {logging_mixin.py:104} INFO - [2021-08-02 14:42:47,285] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 14:42:47,291] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 14:42:47,315] {logging_mixin.py:104} INFO - [2021-08-02 14:42:47,315] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 14:42:47,321] {logging_mixin.py:104} INFO - [2021-08-02 14:42:47,321] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 14:42:47,327] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 14:44:48,383] {scheduler_job.py:181} INFO - Started process (PID=25927) to work on /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 14:44:48,384] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 14:44:48,385] {logging_mixin.py:104} INFO - [2021-08-02 14:44:48,385] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 14:44:48,390] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 14:44:48,414] {logging_mixin.py:104} INFO - [2021-08-02 14:44:48,413] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 14:44:48,419] {logging_mixin.py:104} INFO - [2021-08-02 14:44:48,419] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 14:44:48,425] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 14:45:49,968] {scheduler_job.py:181} INFO - Started process (PID=25996) to work on /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 14:45:49,969] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 14:45:49,969] {logging_mixin.py:104} INFO - [2021-08-02 14:45:49,969] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 14:45:49,975] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 14:45:49,997] {logging_mixin.py:104} INFO - [2021-08-02 14:45:49,997] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 14:45:50,003] {logging_mixin.py:104} INFO - [2021-08-02 14:45:50,003] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 14:45:50,008] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-08-02 16:20:40,386] {scheduler_job.py:181} INFO - Started process (PID=27827) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:20:40,387] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:20:40,387] {logging_mixin.py:104} INFO - [2021-08-02 16:20:40,387] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:20:40,393] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:20:40,415] {logging_mixin.py:104} INFO - [2021-08-02 16:20:40,415] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:20:40,420] {logging_mixin.py:104} INFO - [2021-08-02 16:20:40,420] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:20:40,428] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 16:21:37,453] {scheduler_job.py:181} INFO - Started process (PID=27894) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:21:37,454] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:21:37,454] {logging_mixin.py:104} INFO - [2021-08-02 16:21:37,454] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:21:37,460] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:21:37,484] {logging_mixin.py:104} INFO - [2021-08-02 16:21:37,483] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:21:37,489] {logging_mixin.py:104} INFO - [2021-08-02 16:21:37,489] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:21:37,494] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-08-02 16:22:37,790] {scheduler_job.py:181} INFO - Started process (PID=27958) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:22:37,791] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:22:37,791] {logging_mixin.py:104} INFO - [2021-08-02 16:22:37,791] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:22:37,797] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:22:37,821] {logging_mixin.py:104} INFO - [2021-08-02 16:22:37,821] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:22:37,828] {logging_mixin.py:104} INFO - [2021-08-02 16:22:37,828] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:22:37,833] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 16:23:43,576] {scheduler_job.py:181} INFO - Started process (PID=28095) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:23:43,577] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:23:43,577] {logging_mixin.py:104} INFO - [2021-08-02 16:23:43,577] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:23:43,593] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:23:43,648] {logging_mixin.py:104} INFO - [2021-08-02 16:23:43,647] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:23:43,660] {logging_mixin.py:104} INFO - [2021-08-02 16:23:43,660] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:23:43,674] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.098 seconds
+[2021-08-02 16:24:56,685] {scheduler_job.py:181} INFO - Started process (PID=28195) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:24:56,686] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:24:56,686] {logging_mixin.py:104} INFO - [2021-08-02 16:24:56,686] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:24:56,693] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:24:56,718] {logging_mixin.py:104} INFO - [2021-08-02 16:24:56,717] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:24:56,723] {logging_mixin.py:104} INFO - [2021-08-02 16:24:56,723] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:24:56,731] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.046 seconds
+[2021-08-02 16:25:54,060] {scheduler_job.py:181} INFO - Started process (PID=28330) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:25:54,060] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:25:54,060] {logging_mixin.py:104} INFO - [2021-08-02 16:25:54,060] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:25:54,066] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:25:54,090] {logging_mixin.py:104} INFO - [2021-08-02 16:25:54,090] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:25:54,095] {logging_mixin.py:104} INFO - [2021-08-02 16:25:54,095] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:25:54,100] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-08-02 16:26:46,020] {scheduler_job.py:181} INFO - Started process (PID=28421) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:26:46,021] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:26:46,021] {logging_mixin.py:104} INFO - [2021-08-02 16:26:46,021] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:26:46,028] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:26:46,033] {logging_mixin.py:104} INFO - [2021-08-02 16:26:46,033] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:26:46,056] {logging_mixin.py:104} INFO - [2021-08-02 16:26:46,056] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:26:46,062] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 16:27:43,302] {scheduler_job.py:181} INFO - Started process (PID=28579) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:27:43,303] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:27:43,304] {logging_mixin.py:104} INFO - [2021-08-02 16:27:43,304] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:27:43,311] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:27:43,522] {logging_mixin.py:104} INFO - [2021-08-02 16:27:43,522] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:27:43,528] {logging_mixin.py:104} INFO - [2021-08-02 16:27:43,528] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:27:43,537] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.236 seconds
+[2021-08-02 16:28:43,527] {scheduler_job.py:181} INFO - Started process (PID=28650) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:28:43,527] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:28:43,527] {logging_mixin.py:104} INFO - [2021-08-02 16:28:43,527] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:28:43,532] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:28:43,553] {logging_mixin.py:104} INFO - [2021-08-02 16:28:43,553] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:28:43,559] {logging_mixin.py:104} INFO - [2021-08-02 16:28:43,558] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:28:43,566] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-08-02 16:29:36,499] {scheduler_job.py:181} INFO - Started process (PID=28780) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:29:36,500] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:29:36,500] {logging_mixin.py:104} INFO - [2021-08-02 16:29:36,500] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:29:36,506] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:29:36,529] {logging_mixin.py:104} INFO - [2021-08-02 16:29:36,529] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:29:36,534] {logging_mixin.py:104} INFO - [2021-08-02 16:29:36,534] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:29:36,539] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-08-02 16:30:29,356] {scheduler_job.py:181} INFO - Started process (PID=28849) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:30:29,358] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:30:29,359] {logging_mixin.py:104} INFO - [2021-08-02 16:30:29,359] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:30:29,366] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:30:29,389] {logging_mixin.py:104} INFO - [2021-08-02 16:30:29,389] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:30:29,394] {logging_mixin.py:104} INFO - [2021-08-02 16:30:29,394] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:30:29,401] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.045 seconds
+[2021-08-02 16:31:24,693] {scheduler_job.py:181} INFO - Started process (PID=28913) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:31:24,694] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:31:24,694] {logging_mixin.py:104} INFO - [2021-08-02 16:31:24,694] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:31:24,701] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:31:24,724] {logging_mixin.py:104} INFO - [2021-08-02 16:31:24,724] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:31:24,729] {logging_mixin.py:104} INFO - [2021-08-02 16:31:24,729] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:31:24,736] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 16:32:19,294] {scheduler_job.py:181} INFO - Started process (PID=28984) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:32:19,295] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:32:19,295] {logging_mixin.py:104} INFO - [2021-08-02 16:32:19,295] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:32:19,301] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:32:19,324] {logging_mixin.py:104} INFO - [2021-08-02 16:32:19,324] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:32:19,329] {logging_mixin.py:104} INFO - [2021-08-02 16:32:19,329] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:32:19,335] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-08-02 16:33:20,826] {scheduler_job.py:181} INFO - Started process (PID=29062) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:33:20,827] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:33:20,827] {logging_mixin.py:104} INFO - [2021-08-02 16:33:20,827] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:33:20,833] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:33:20,857] {logging_mixin.py:104} INFO - [2021-08-02 16:33:20,857] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:33:20,863] {logging_mixin.py:104} INFO - [2021-08-02 16:33:20,863] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:33:20,869] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 16:34:31,912] {scheduler_job.py:181} INFO - Started process (PID=29155) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:34:31,914] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:34:31,915] {logging_mixin.py:104} INFO - [2021-08-02 16:34:31,915] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:34:31,925] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:34:31,955] {logging_mixin.py:104} INFO - [2021-08-02 16:34:31,955] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:34:31,960] {logging_mixin.py:104} INFO - [2021-08-02 16:34:31,960] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:34:31,968] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.056 seconds
+[2021-08-02 16:35:32,207] {scheduler_job.py:181} INFO - Started process (PID=29278) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:35:32,208] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:35:32,209] {logging_mixin.py:104} INFO - [2021-08-02 16:35:32,209] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:35:32,215] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:35:32,237] {logging_mixin.py:104} INFO - [2021-08-02 16:35:32,237] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:35:32,242] {logging_mixin.py:104} INFO - [2021-08-02 16:35:32,242] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:35:32,248] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-08-02 16:36:28,100] {scheduler_job.py:181} INFO - Started process (PID=29382) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:36:28,100] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:36:28,101] {logging_mixin.py:104} INFO - [2021-08-02 16:36:28,101] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:36:28,106] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:36:28,129] {logging_mixin.py:104} INFO - [2021-08-02 16:36:28,129] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:36:28,134] {logging_mixin.py:104} INFO - [2021-08-02 16:36:28,134] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:36:28,139] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-08-02 16:37:23,301] {scheduler_job.py:181} INFO - Started process (PID=29453) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:37:23,302] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:37:23,303] {logging_mixin.py:104} INFO - [2021-08-02 16:37:23,303] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:37:23,310] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:37:23,333] {logging_mixin.py:104} INFO - [2021-08-02 16:37:23,332] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:37:23,338] {logging_mixin.py:104} INFO - [2021-08-02 16:37:23,338] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:37:23,344] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 16:38:16,207] {scheduler_job.py:181} INFO - Started process (PID=29533) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:38:16,208] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:38:16,209] {logging_mixin.py:104} INFO - [2021-08-02 16:38:16,209] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:38:16,215] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:38:16,237] {logging_mixin.py:104} INFO - [2021-08-02 16:38:16,237] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:38:16,243] {logging_mixin.py:104} INFO - [2021-08-02 16:38:16,242] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:38:16,248] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 16:39:09,877] {scheduler_job.py:181} INFO - Started process (PID=29593) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:39:09,878] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:39:09,879] {logging_mixin.py:104} INFO - [2021-08-02 16:39:09,879] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:39:09,886] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:39:09,908] {logging_mixin.py:104} INFO - [2021-08-02 16:39:09,908] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:39:09,913] {logging_mixin.py:104} INFO - [2021-08-02 16:39:09,913] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:39:09,918] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 16:40:01,850] {scheduler_job.py:181} INFO - Started process (PID=29660) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:40:01,852] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:40:01,853] {logging_mixin.py:104} INFO - [2021-08-02 16:40:01,853] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:40:01,863] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:40:01,886] {logging_mixin.py:104} INFO - [2021-08-02 16:40:01,886] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:40:01,891] {logging_mixin.py:104} INFO - [2021-08-02 16:40:01,891] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:40:01,897] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.048 seconds
+[2021-08-02 16:40:54,349] {scheduler_job.py:181} INFO - Started process (PID=29722) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:40:54,350] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:40:54,351] {logging_mixin.py:104} INFO - [2021-08-02 16:40:54,351] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:40:54,362] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:40:54,391] {logging_mixin.py:104} INFO - [2021-08-02 16:40:54,391] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:40:54,396] {logging_mixin.py:104} INFO - [2021-08-02 16:40:54,396] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:40:54,402] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.054 seconds
+[2021-08-02 16:41:46,671] {scheduler_job.py:181} INFO - Started process (PID=29794) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:41:46,672] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:41:46,672] {logging_mixin.py:104} INFO - [2021-08-02 16:41:46,672] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:41:46,679] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:41:46,701] {logging_mixin.py:104} INFO - [2021-08-02 16:41:46,701] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:41:46,706] {logging_mixin.py:104} INFO - [2021-08-02 16:41:46,706] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:41:46,712] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-08-02 16:42:39,184] {scheduler_job.py:181} INFO - Started process (PID=29855) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:42:39,185] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:42:39,185] {logging_mixin.py:104} INFO - [2021-08-02 16:42:39,185] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:42:39,195] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:42:39,221] {logging_mixin.py:104} INFO - [2021-08-02 16:42:39,221] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:42:39,226] {logging_mixin.py:104} INFO - [2021-08-02 16:42:39,226] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:42:39,232] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.048 seconds
+[2021-08-02 16:43:31,550] {scheduler_job.py:181} INFO - Started process (PID=29949) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:43:31,552] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:43:31,552] {logging_mixin.py:104} INFO - [2021-08-02 16:43:31,552] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:43:31,566] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:43:31,595] {logging_mixin.py:104} INFO - [2021-08-02 16:43:31,594] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:43:31,600] {logging_mixin.py:104} INFO - [2021-08-02 16:43:31,600] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:43:31,606] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.057 seconds
+[2021-08-02 16:44:30,386] {scheduler_job.py:181} INFO - Started process (PID=30024) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:44:30,387] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:44:30,387] {logging_mixin.py:104} INFO - [2021-08-02 16:44:30,387] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:44:30,397] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:44:30,421] {logging_mixin.py:104} INFO - [2021-08-02 16:44:30,421] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:44:30,428] {logging_mixin.py:104} INFO - [2021-08-02 16:44:30,428] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:44:30,433] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.048 seconds
+[2021-08-02 16:45:24,149] {scheduler_job.py:181} INFO - Started process (PID=30089) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:45:24,149] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:45:24,149] {logging_mixin.py:104} INFO - [2021-08-02 16:45:24,149] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:45:24,154] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:45:24,175] {logging_mixin.py:104} INFO - [2021-08-02 16:45:24,175] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:45:24,180] {logging_mixin.py:104} INFO - [2021-08-02 16:45:24,180] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:45:24,187] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.038 seconds
+[2021-08-02 16:46:17,690] {scheduler_job.py:181} INFO - Started process (PID=30152) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:46:17,694] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:46:17,694] {logging_mixin.py:104} INFO - [2021-08-02 16:46:17,694] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:46:17,706] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:46:17,735] {logging_mixin.py:104} INFO - [2021-08-02 16:46:17,735] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:46:17,741] {logging_mixin.py:104} INFO - [2021-08-02 16:46:17,741] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:46:17,747] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.057 seconds
+[2021-08-02 16:47:09,597] {scheduler_job.py:181} INFO - Started process (PID=30214) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:47:09,599] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:47:09,599] {logging_mixin.py:104} INFO - [2021-08-02 16:47:09,599] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:47:09,606] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:47:09,630] {logging_mixin.py:104} INFO - [2021-08-02 16:47:09,630] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:47:09,635] {logging_mixin.py:104} INFO - [2021-08-02 16:47:09,635] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:47:09,640] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 16:48:01,472] {scheduler_job.py:181} INFO - Started process (PID=30277) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:48:01,474] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:48:01,474] {logging_mixin.py:104} INFO - [2021-08-02 16:48:01,474] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:48:01,484] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:48:01,506] {logging_mixin.py:104} INFO - [2021-08-02 16:48:01,506] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:48:01,511] {logging_mixin.py:104} INFO - [2021-08-02 16:48:01,511] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:48:01,517] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.045 seconds
+[2021-08-02 16:48:54,082] {scheduler_job.py:181} INFO - Started process (PID=30337) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:48:54,084] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:48:54,084] {logging_mixin.py:104} INFO - [2021-08-02 16:48:54,084] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:48:54,096] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:48:54,125] {logging_mixin.py:104} INFO - [2021-08-02 16:48:54,125] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:48:54,130] {logging_mixin.py:104} INFO - [2021-08-02 16:48:54,130] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:48:54,136] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.055 seconds
+[2021-08-02 16:49:46,068] {scheduler_job.py:181} INFO - Started process (PID=30402) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:49:46,070] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:49:46,070] {logging_mixin.py:104} INFO - [2021-08-02 16:49:46,070] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:49:46,077] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:49:46,099] {logging_mixin.py:104} INFO - [2021-08-02 16:49:46,098] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:49:46,104] {logging_mixin.py:104} INFO - [2021-08-02 16:49:46,104] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:49:46,110] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 16:50:37,528] {scheduler_job.py:181} INFO - Started process (PID=30465) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:50:37,530] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:50:37,530] {logging_mixin.py:104} INFO - [2021-08-02 16:50:37,530] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:50:37,541] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:50:37,570] {logging_mixin.py:104} INFO - [2021-08-02 16:50:37,570] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:50:37,575] {logging_mixin.py:104} INFO - [2021-08-02 16:50:37,575] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:50:37,581] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.053 seconds
+[2021-08-02 16:51:31,287] {scheduler_job.py:181} INFO - Started process (PID=30527) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:51:31,288] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:51:31,289] {logging_mixin.py:104} INFO - [2021-08-02 16:51:31,289] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:51:31,297] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:51:31,319] {logging_mixin.py:104} INFO - [2021-08-02 16:51:31,319] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:51:31,324] {logging_mixin.py:104} INFO - [2021-08-02 16:51:31,324] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:51:31,331] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 16:52:12,242] {scheduler_job.py:181} INFO - Started process (PID=30576) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:52:12,242] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 16:52:12,242] {logging_mixin.py:104} INFO - [2021-08-02 16:52:12,242] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:52:12,247] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 16:52:12,269] {logging_mixin.py:104} INFO - [2021-08-02 16:52:12,269] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 16:52:12,274] {logging_mixin.py:104} INFO - [2021-08-02 16:52:12,274] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 16:52:12,281] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-08-02 17:11:01,583] {scheduler_job.py:181} INFO - Started process (PID=30663) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:11:01,584] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:11:01,584] {logging_mixin.py:104} INFO - [2021-08-02 17:11:01,584] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:11:01,591] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:11:01,614] {logging_mixin.py:104} INFO - [2021-08-02 17:11:01,614] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:11:01,619] {logging_mixin.py:104} INFO - [2021-08-02 17:11:01,619] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:11:01,625] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 17:11:52,320] {scheduler_job.py:181} INFO - Started process (PID=30726) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:11:52,322] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:11:52,322] {logging_mixin.py:104} INFO - [2021-08-02 17:11:52,322] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:11:52,331] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:11:52,356] {logging_mixin.py:104} INFO - [2021-08-02 17:11:52,355] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:11:52,361] {logging_mixin.py:104} INFO - [2021-08-02 17:11:52,361] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:11:52,367] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.048 seconds
+[2021-08-02 17:12:47,743] {scheduler_job.py:181} INFO - Started process (PID=30798) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:12:47,744] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:12:47,744] {logging_mixin.py:104} INFO - [2021-08-02 17:12:47,744] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:12:47,751] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:12:47,773] {logging_mixin.py:104} INFO - [2021-08-02 17:12:47,773] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:12:47,778] {logging_mixin.py:104} INFO - [2021-08-02 17:12:47,778] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:12:47,784] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-08-02 17:13:47,750] {scheduler_job.py:181} INFO - Started process (PID=30898) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:13:47,751] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:13:47,751] {logging_mixin.py:104} INFO - [2021-08-02 17:13:47,751] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:13:47,759] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:13:47,787] {logging_mixin.py:104} INFO - [2021-08-02 17:13:47,787] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:13:47,793] {logging_mixin.py:104} INFO - [2021-08-02 17:13:47,793] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:13:47,800] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.051 seconds
+[2021-08-02 17:14:44,239] {scheduler_job.py:181} INFO - Started process (PID=31055) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:14:44,239] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:14:44,240] {logging_mixin.py:104} INFO - [2021-08-02 17:14:44,240] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:14:44,244] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:14:44,266] {logging_mixin.py:104} INFO - [2021-08-02 17:14:44,266] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:14:44,271] {logging_mixin.py:104} INFO - [2021-08-02 17:14:44,271] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:14:44,279] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-08-02 17:15:35,375] {scheduler_job.py:181} INFO - Started process (PID=31116) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:15:35,375] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:15:35,376] {logging_mixin.py:104} INFO - [2021-08-02 17:15:35,376] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:15:35,380] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:15:35,404] {logging_mixin.py:104} INFO - [2021-08-02 17:15:35,403] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:15:35,409] {logging_mixin.py:104} INFO - [2021-08-02 17:15:35,409] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:15:35,414] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-08-02 17:16:27,760] {scheduler_job.py:181} INFO - Started process (PID=31180) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:16:27,760] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:16:27,761] {logging_mixin.py:104} INFO - [2021-08-02 17:16:27,761] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:16:27,765] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:16:27,787] {logging_mixin.py:104} INFO - [2021-08-02 17:16:27,786] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:16:27,792] {logging_mixin.py:104} INFO - [2021-08-02 17:16:27,791] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:16:27,800] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-08-02 17:17:18,743] {scheduler_job.py:181} INFO - Started process (PID=31240) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:17:18,743] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:17:18,743] {logging_mixin.py:104} INFO - [2021-08-02 17:17:18,743] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:17:18,749] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:17:18,770] {logging_mixin.py:104} INFO - [2021-08-02 17:17:18,770] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:17:18,776] {logging_mixin.py:104} INFO - [2021-08-02 17:17:18,776] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:17:18,781] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-08-02 17:18:09,929] {scheduler_job.py:181} INFO - Started process (PID=31305) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:18:09,929] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:18:09,930] {logging_mixin.py:104} INFO - [2021-08-02 17:18:09,930] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:18:09,935] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:18:09,958] {logging_mixin.py:104} INFO - [2021-08-02 17:18:09,957] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:18:09,963] {logging_mixin.py:104} INFO - [2021-08-02 17:18:09,963] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:18:09,969] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-08-02 17:19:00,792] {scheduler_job.py:181} INFO - Started process (PID=31367) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:19:00,792] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:19:00,792] {logging_mixin.py:104} INFO - [2021-08-02 17:19:00,792] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:19:00,797] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:19:00,821] {logging_mixin.py:104} INFO - [2021-08-02 17:19:00,820] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:19:00,826] {logging_mixin.py:104} INFO - [2021-08-02 17:19:00,826] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:19:00,833] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-08-02 17:19:52,443] {scheduler_job.py:181} INFO - Started process (PID=31427) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:19:52,443] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:19:52,444] {logging_mixin.py:104} INFO - [2021-08-02 17:19:52,444] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:19:52,449] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:19:52,472] {logging_mixin.py:104} INFO - [2021-08-02 17:19:52,472] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:19:52,477] {logging_mixin.py:104} INFO - [2021-08-02 17:19:52,477] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:19:52,484] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 17:20:44,600] {scheduler_job.py:181} INFO - Started process (PID=31497) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:20:44,602] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:20:44,603] {logging_mixin.py:104} INFO - [2021-08-02 17:20:44,603] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:20:44,614] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:20:44,643] {logging_mixin.py:104} INFO - [2021-08-02 17:20:44,642] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:20:44,648] {logging_mixin.py:104} INFO - [2021-08-02 17:20:44,648] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:20:44,654] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.054 seconds
+[2021-08-02 17:21:38,479] {scheduler_job.py:181} INFO - Started process (PID=31580) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:21:38,480] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:21:38,481] {logging_mixin.py:104} INFO - [2021-08-02 17:21:38,481] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:21:38,493] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:21:38,521] {logging_mixin.py:104} INFO - [2021-08-02 17:21:38,521] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:21:38,526] {logging_mixin.py:104} INFO - [2021-08-02 17:21:38,526] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:21:38,532] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.054 seconds
+[2021-08-02 17:22:31,660] {scheduler_job.py:181} INFO - Started process (PID=31662) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:22:31,661] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:22:31,661] {logging_mixin.py:104} INFO - [2021-08-02 17:22:31,661] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:22:31,666] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:22:31,687] {logging_mixin.py:104} INFO - [2021-08-02 17:22:31,687] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:22:31,692] {logging_mixin.py:104} INFO - [2021-08-02 17:22:31,692] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:22:31,699] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-08-02 17:23:23,868] {scheduler_job.py:181} INFO - Started process (PID=31731) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:23:23,869] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:23:23,869] {logging_mixin.py:104} INFO - [2021-08-02 17:23:23,869] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:23:23,874] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:23:23,896] {logging_mixin.py:104} INFO - [2021-08-02 17:23:23,896] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:23:23,901] {logging_mixin.py:104} INFO - [2021-08-02 17:23:23,901] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:23:23,907] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-08-02 17:24:21,164] {scheduler_job.py:181} INFO - Started process (PID=31821) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:24:21,165] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:24:21,165] {logging_mixin.py:104} INFO - [2021-08-02 17:24:21,165] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:24:21,172] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:24:21,203] {logging_mixin.py:104} INFO - [2021-08-02 17:24:21,203] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:24:21,209] {logging_mixin.py:104} INFO - [2021-08-02 17:24:21,209] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:24:21,217] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.054 seconds
+[2021-08-02 17:25:18,599] {scheduler_job.py:181} INFO - Started process (PID=31933) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:25:18,601] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:25:18,602] {logging_mixin.py:104} INFO - [2021-08-02 17:25:18,602] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:25:18,617] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:25:18,680] {logging_mixin.py:104} INFO - [2021-08-02 17:25:18,680] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:25:18,689] {logging_mixin.py:104} INFO - [2021-08-02 17:25:18,689] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:25:18,698] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.100 seconds
+[2021-08-02 17:26:12,900] {scheduler_job.py:181} INFO - Started process (PID=32030) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:26:12,901] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:26:12,902] {logging_mixin.py:104} INFO - [2021-08-02 17:26:12,902] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:26:12,908] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:26:12,931] {logging_mixin.py:104} INFO - [2021-08-02 17:26:12,931] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:26:12,936] {logging_mixin.py:104} INFO - [2021-08-02 17:26:12,936] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:26:12,942] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 17:27:09,037] {scheduler_job.py:181} INFO - Started process (PID=32107) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:27:09,038] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:27:09,039] {logging_mixin.py:104} INFO - [2021-08-02 17:27:09,038] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:27:09,045] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:27:09,071] {logging_mixin.py:104} INFO - [2021-08-02 17:27:09,070] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:27:09,076] {logging_mixin.py:104} INFO - [2021-08-02 17:27:09,076] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:27:09,082] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.045 seconds
+[2021-08-02 17:28:04,119] {scheduler_job.py:181} INFO - Started process (PID=32173) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:28:04,120] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:28:04,120] {logging_mixin.py:104} INFO - [2021-08-02 17:28:04,120] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:28:04,127] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:28:04,151] {logging_mixin.py:104} INFO - [2021-08-02 17:28:04,151] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:28:04,156] {logging_mixin.py:104} INFO - [2021-08-02 17:28:04,156] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:28:04,162] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 17:28:54,980] {scheduler_job.py:181} INFO - Started process (PID=32243) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:28:54,981] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:28:54,981] {logging_mixin.py:104} INFO - [2021-08-02 17:28:54,981] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:28:54,987] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:28:55,011] {logging_mixin.py:104} INFO - [2021-08-02 17:28:55,011] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:28:55,016] {logging_mixin.py:104} INFO - [2021-08-02 17:28:55,016] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:28:55,023] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 17:29:47,132] {scheduler_job.py:181} INFO - Started process (PID=32306) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:29:47,133] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:29:47,133] {logging_mixin.py:104} INFO - [2021-08-02 17:29:47,133] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:29:47,139] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:29:47,162] {logging_mixin.py:104} INFO - [2021-08-02 17:29:47,162] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:29:47,168] {logging_mixin.py:104} INFO - [2021-08-02 17:29:47,168] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:29:47,174] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 17:30:42,734] {scheduler_job.py:181} INFO - Started process (PID=32390) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:30:42,735] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:30:42,736] {logging_mixin.py:104} INFO - [2021-08-02 17:30:42,735] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:30:42,742] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:30:42,766] {logging_mixin.py:104} INFO - [2021-08-02 17:30:42,766] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:30:42,771] {logging_mixin.py:104} INFO - [2021-08-02 17:30:42,771] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:30:42,777] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 17:31:35,914] {scheduler_job.py:181} INFO - Started process (PID=32457) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:31:35,916] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:31:35,917] {logging_mixin.py:104} INFO - [2021-08-02 17:31:35,917] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:31:35,928] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:31:35,957] {logging_mixin.py:104} INFO - [2021-08-02 17:31:35,956] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:31:35,962] {logging_mixin.py:104} INFO - [2021-08-02 17:31:35,962] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:31:35,968] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.055 seconds
+[2021-08-02 17:32:30,066] {scheduler_job.py:181} INFO - Started process (PID=32535) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:32:30,067] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:32:30,068] {logging_mixin.py:104} INFO - [2021-08-02 17:32:30,068] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:32:30,074] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:32:30,097] {logging_mixin.py:104} INFO - [2021-08-02 17:32:30,097] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:32:30,102] {logging_mixin.py:104} INFO - [2021-08-02 17:32:30,102] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:32:30,108] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 17:33:22,957] {scheduler_job.py:181} INFO - Started process (PID=32600) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:33:22,958] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:33:22,959] {logging_mixin.py:104} INFO - [2021-08-02 17:33:22,959] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:33:22,964] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:33:22,988] {logging_mixin.py:104} INFO - [2021-08-02 17:33:22,988] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:33:22,993] {logging_mixin.py:104} INFO - [2021-08-02 17:33:22,993] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:33:22,999] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 17:34:17,908] {scheduler_job.py:181} INFO - Started process (PID=32668) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:34:17,909] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:34:17,909] {logging_mixin.py:104} INFO - [2021-08-02 17:34:17,909] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:34:17,917] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:34:17,940] {logging_mixin.py:104} INFO - [2021-08-02 17:34:17,940] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:34:17,945] {logging_mixin.py:104} INFO - [2021-08-02 17:34:17,945] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:34:17,951] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 17:35:09,535] {scheduler_job.py:181} INFO - Started process (PID=32740) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:35:09,537] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:35:09,537] {logging_mixin.py:104} INFO - [2021-08-02 17:35:09,537] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:35:09,545] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:35:09,568] {logging_mixin.py:104} INFO - [2021-08-02 17:35:09,568] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:35:09,573] {logging_mixin.py:104} INFO - [2021-08-02 17:35:09,573] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:35:09,579] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.045 seconds
+[2021-08-02 17:36:02,819] {scheduler_job.py:181} INFO - Started process (PID=32811) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:36:02,819] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:36:02,820] {logging_mixin.py:104} INFO - [2021-08-02 17:36:02,820] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:36:02,825] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:36:02,846] {logging_mixin.py:104} INFO - [2021-08-02 17:36:02,846] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:36:02,851] {logging_mixin.py:104} INFO - [2021-08-02 17:36:02,851] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:36:02,858] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-08-02 17:36:56,546] {scheduler_job.py:181} INFO - Started process (PID=32883) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:36:56,547] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:36:56,547] {logging_mixin.py:104} INFO - [2021-08-02 17:36:56,547] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:36:56,554] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:36:56,578] {logging_mixin.py:104} INFO - [2021-08-02 17:36:56,578] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:36:56,583] {logging_mixin.py:104} INFO - [2021-08-02 17:36:56,583] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:36:56,589] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 17:37:52,834] {scheduler_job.py:181} INFO - Started process (PID=32951) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:37:52,836] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:37:52,836] {logging_mixin.py:104} INFO - [2021-08-02 17:37:52,836] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:37:52,843] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:37:52,865] {logging_mixin.py:104} INFO - [2021-08-02 17:37:52,865] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:37:52,870] {logging_mixin.py:104} INFO - [2021-08-02 17:37:52,870] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:37:52,876] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 17:38:48,393] {scheduler_job.py:181} INFO - Started process (PID=33032) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:38:48,393] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:38:48,394] {logging_mixin.py:104} INFO - [2021-08-02 17:38:48,394] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:38:48,399] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:38:48,422] {logging_mixin.py:104} INFO - [2021-08-02 17:38:48,422] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:38:48,427] {logging_mixin.py:104} INFO - [2021-08-02 17:38:48,427] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:38:48,436] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 17:39:43,265] {scheduler_job.py:181} INFO - Started process (PID=33114) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:39:43,267] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:39:43,268] {logging_mixin.py:104} INFO - [2021-08-02 17:39:43,268] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:39:43,274] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:39:43,295] {logging_mixin.py:104} INFO - [2021-08-02 17:39:43,295] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:39:43,301] {logging_mixin.py:104} INFO - [2021-08-02 17:39:43,300] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:39:43,308] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 17:40:36,001] {scheduler_job.py:181} INFO - Started process (PID=33178) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:40:36,002] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:40:36,002] {logging_mixin.py:104} INFO - [2021-08-02 17:40:36,002] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:40:36,007] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:40:36,028] {logging_mixin.py:104} INFO - [2021-08-02 17:40:36,028] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:40:36,033] {logging_mixin.py:104} INFO - [2021-08-02 17:40:36,033] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:40:36,040] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-08-02 17:41:28,174] {scheduler_job.py:181} INFO - Started process (PID=33242) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:41:28,175] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:41:28,176] {logging_mixin.py:104} INFO - [2021-08-02 17:41:28,176] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:41:28,188] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:41:28,217] {logging_mixin.py:104} INFO - [2021-08-02 17:41:28,216] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:41:28,222] {logging_mixin.py:104} INFO - [2021-08-02 17:41:28,222] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:41:28,228] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.055 seconds
+[2021-08-02 17:42:22,754] {scheduler_job.py:181} INFO - Started process (PID=33310) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:42:22,754] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:42:22,755] {logging_mixin.py:104} INFO - [2021-08-02 17:42:22,755] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:42:22,760] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:42:22,784] {logging_mixin.py:104} INFO - [2021-08-02 17:42:22,784] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:42:22,789] {logging_mixin.py:104} INFO - [2021-08-02 17:42:22,789] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:42:22,795] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 17:43:19,319] {scheduler_job.py:181} INFO - Started process (PID=33391) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:43:19,321] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:43:19,322] {logging_mixin.py:104} INFO - [2021-08-02 17:43:19,321] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:43:19,334] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:43:19,362] {logging_mixin.py:104} INFO - [2021-08-02 17:43:19,362] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:43:19,368] {logging_mixin.py:104} INFO - [2021-08-02 17:43:19,368] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:43:19,374] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.056 seconds
+[2021-08-02 17:44:10,056] {scheduler_job.py:181} INFO - Started process (PID=33459) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:44:10,056] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:44:10,056] {logging_mixin.py:104} INFO - [2021-08-02 17:44:10,056] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:44:10,061] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:44:10,083] {logging_mixin.py:104} INFO - [2021-08-02 17:44:10,083] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:44:10,088] {logging_mixin.py:104} INFO - [2021-08-02 17:44:10,088] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:44:10,097] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 17:44:59,756] {scheduler_job.py:181} INFO - Started process (PID=33528) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:44:59,757] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:44:59,757] {logging_mixin.py:104} INFO - [2021-08-02 17:44:59,757] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:44:59,763] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:44:59,786] {logging_mixin.py:104} INFO - [2021-08-02 17:44:59,786] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:44:59,791] {logging_mixin.py:104} INFO - [2021-08-02 17:44:59,791] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:44:59,797] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 17:45:52,916] {scheduler_job.py:181} INFO - Started process (PID=33603) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:45:52,917] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:45:52,917] {logging_mixin.py:104} INFO - [2021-08-02 17:45:52,917] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:45:52,924] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:45:52,953] {logging_mixin.py:104} INFO - [2021-08-02 17:45:52,953] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:45:52,961] {logging_mixin.py:104} INFO - [2021-08-02 17:45:52,960] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:45:52,969] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.053 seconds
+[2021-08-02 17:46:48,495] {scheduler_job.py:181} INFO - Started process (PID=33689) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:46:48,496] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:46:48,496] {logging_mixin.py:104} INFO - [2021-08-02 17:46:48,496] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:46:48,502] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:46:48,528] {logging_mixin.py:104} INFO - [2021-08-02 17:46:48,527] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:46:48,533] {logging_mixin.py:104} INFO - [2021-08-02 17:46:48,533] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:46:48,538] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 17:47:44,953] {scheduler_job.py:181} INFO - Started process (PID=33769) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:47:44,954] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:47:44,955] {logging_mixin.py:104} INFO - [2021-08-02 17:47:44,955] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:47:44,961] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:47:44,984] {logging_mixin.py:104} INFO - [2021-08-02 17:47:44,983] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:47:44,989] {logging_mixin.py:104} INFO - [2021-08-02 17:47:44,989] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:47:44,995] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 17:48:40,028] {scheduler_job.py:181} INFO - Started process (PID=33835) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:48:40,030] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:48:40,030] {logging_mixin.py:104} INFO - [2021-08-02 17:48:40,030] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:48:40,036] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:48:40,062] {logging_mixin.py:104} INFO - [2021-08-02 17:48:40,062] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:48:40,069] {logging_mixin.py:104} INFO - [2021-08-02 17:48:40,069] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:48:40,077] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.049 seconds
+[2021-08-02 17:49:35,467] {scheduler_job.py:181} INFO - Started process (PID=33914) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:49:35,468] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:49:35,469] {logging_mixin.py:104} INFO - [2021-08-02 17:49:35,468] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:49:35,475] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:49:35,501] {logging_mixin.py:104} INFO - [2021-08-02 17:49:35,501] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:49:35,507] {logging_mixin.py:104} INFO - [2021-08-02 17:49:35,507] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:49:35,513] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.046 seconds
+[2021-08-02 17:50:33,981] {scheduler_job.py:181} INFO - Started process (PID=33982) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:50:33,982] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:50:33,983] {logging_mixin.py:104} INFO - [2021-08-02 17:50:33,983] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:50:33,990] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:50:34,012] {logging_mixin.py:104} INFO - [2021-08-02 17:50:34,012] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:50:34,018] {logging_mixin.py:104} INFO - [2021-08-02 17:50:34,018] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:50:34,023] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 17:51:32,742] {scheduler_job.py:181} INFO - Started process (PID=34070) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:51:32,744] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:51:32,744] {logging_mixin.py:104} INFO - [2021-08-02 17:51:32,744] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:51:32,751] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:51:32,777] {logging_mixin.py:104} INFO - [2021-08-02 17:51:32,777] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:51:32,783] {logging_mixin.py:104} INFO - [2021-08-02 17:51:32,783] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:51:32,790] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.049 seconds
+[2021-08-02 17:52:32,338] {scheduler_job.py:181} INFO - Started process (PID=34145) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:52:32,339] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:52:32,339] {logging_mixin.py:104} INFO - [2021-08-02 17:52:32,339] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:52:32,346] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:52:32,369] {logging_mixin.py:104} INFO - [2021-08-02 17:52:32,369] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:52:32,375] {logging_mixin.py:104} INFO - [2021-08-02 17:52:32,375] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:52:32,381] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 17:53:28,709] {scheduler_job.py:181} INFO - Started process (PID=34214) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:53:28,710] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:53:28,710] {logging_mixin.py:104} INFO - [2021-08-02 17:53:28,710] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:53:28,717] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:53:28,740] {logging_mixin.py:104} INFO - [2021-08-02 17:53:28,740] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:53:28,745] {logging_mixin.py:104} INFO - [2021-08-02 17:53:28,745] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:53:28,752] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 17:54:27,390] {scheduler_job.py:181} INFO - Started process (PID=34310) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:54:27,391] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:54:27,392] {logging_mixin.py:104} INFO - [2021-08-02 17:54:27,392] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:54:27,398] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:54:27,421] {logging_mixin.py:104} INFO - [2021-08-02 17:54:27,421] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:54:27,426] {logging_mixin.py:104} INFO - [2021-08-02 17:54:27,426] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:54:27,433] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 17:55:20,278] {scheduler_job.py:181} INFO - Started process (PID=34371) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:55:20,278] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:55:20,279] {logging_mixin.py:104} INFO - [2021-08-02 17:55:20,278] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:55:20,284] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:55:20,306] {logging_mixin.py:104} INFO - [2021-08-02 17:55:20,306] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:55:20,311] {logging_mixin.py:104} INFO - [2021-08-02 17:55:20,311] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:55:20,317] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-08-02 17:56:11,505] {scheduler_job.py:181} INFO - Started process (PID=34435) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:56:11,505] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:56:11,506] {logging_mixin.py:104} INFO - [2021-08-02 17:56:11,506] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:56:11,511] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:56:11,535] {logging_mixin.py:104} INFO - [2021-08-02 17:56:11,534] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:56:11,540] {logging_mixin.py:104} INFO - [2021-08-02 17:56:11,540] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:56:11,546] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-08-02 17:57:05,615] {scheduler_job.py:181} INFO - Started process (PID=34498) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:57:05,617] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:57:05,617] {logging_mixin.py:104} INFO - [2021-08-02 17:57:05,617] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:57:05,623] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:57:05,646] {logging_mixin.py:104} INFO - [2021-08-02 17:57:05,646] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:57:05,652] {logging_mixin.py:104} INFO - [2021-08-02 17:57:05,652] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:57:05,658] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 17:57:57,670] {scheduler_job.py:181} INFO - Started process (PID=34561) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:57:57,672] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:57:57,672] {logging_mixin.py:104} INFO - [2021-08-02 17:57:57,672] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:57:57,678] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:57:57,701] {logging_mixin.py:104} INFO - [2021-08-02 17:57:57,701] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:57:57,706] {logging_mixin.py:104} INFO - [2021-08-02 17:57:57,706] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:57:57,712] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 17:58:50,391] {scheduler_job.py:181} INFO - Started process (PID=34629) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:58:50,392] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:58:50,393] {logging_mixin.py:104} INFO - [2021-08-02 17:58:50,393] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:58:50,399] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:58:50,421] {logging_mixin.py:104} INFO - [2021-08-02 17:58:50,421] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:58:50,426] {logging_mixin.py:104} INFO - [2021-08-02 17:58:50,426] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:58:50,432] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 17:59:45,010] {scheduler_job.py:181} INFO - Started process (PID=34693) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:59:45,011] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 17:59:45,012] {logging_mixin.py:104} INFO - [2021-08-02 17:59:45,012] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:59:45,018] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 17:59:45,041] {logging_mixin.py:104} INFO - [2021-08-02 17:59:45,041] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 17:59:45,046] {logging_mixin.py:104} INFO - [2021-08-02 17:59:45,046] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 17:59:45,052] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 18:00:39,045] {scheduler_job.py:181} INFO - Started process (PID=34765) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:00:39,046] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:00:39,046] {logging_mixin.py:104} INFO - [2021-08-02 18:00:39,046] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:00:39,052] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:00:39,077] {logging_mixin.py:104} INFO - [2021-08-02 18:00:39,077] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:00:39,084] {logging_mixin.py:104} INFO - [2021-08-02 18:00:39,083] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:00:39,090] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.046 seconds
+[2021-08-02 18:01:35,260] {scheduler_job.py:181} INFO - Started process (PID=34906) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:01:35,261] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:01:35,261] {logging_mixin.py:104} INFO - [2021-08-02 18:01:35,261] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:01:35,267] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:01:35,290] {logging_mixin.py:104} INFO - [2021-08-02 18:01:35,290] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:01:35,295] {logging_mixin.py:104} INFO - [2021-08-02 18:01:35,295] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:01:35,301] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 18:02:28,085] {scheduler_job.py:181} INFO - Started process (PID=34968) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:02:28,087] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:02:28,087] {logging_mixin.py:104} INFO - [2021-08-02 18:02:28,087] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:02:28,093] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:02:28,116] {logging_mixin.py:104} INFO - [2021-08-02 18:02:28,116] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:02:28,122] {logging_mixin.py:104} INFO - [2021-08-02 18:02:28,122] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:02:28,128] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 18:03:25,828] {scheduler_job.py:181} INFO - Started process (PID=35036) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:03:25,829] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:03:25,829] {logging_mixin.py:104} INFO - [2021-08-02 18:03:25,829] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:03:25,835] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:03:25,858] {logging_mixin.py:104} INFO - [2021-08-02 18:03:25,858] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:03:25,863] {logging_mixin.py:104} INFO - [2021-08-02 18:03:25,863] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:03:25,871] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 18:04:21,456] {scheduler_job.py:181} INFO - Started process (PID=35105) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:04:21,457] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:04:21,458] {logging_mixin.py:104} INFO - [2021-08-02 18:04:21,458] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:04:21,464] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:04:21,487] {logging_mixin.py:104} INFO - [2021-08-02 18:04:21,487] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:04:21,493] {logging_mixin.py:104} INFO - [2021-08-02 18:04:21,493] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:04:21,498] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 18:05:14,144] {scheduler_job.py:181} INFO - Started process (PID=35168) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:05:14,144] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:05:14,145] {logging_mixin.py:104} INFO - [2021-08-02 18:05:14,144] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:05:14,151] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:05:14,180] {logging_mixin.py:104} INFO - [2021-08-02 18:05:14,180] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:05:14,187] {logging_mixin.py:104} INFO - [2021-08-02 18:05:14,186] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:05:14,193] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.050 seconds
+[2021-08-02 18:06:09,827] {scheduler_job.py:181} INFO - Started process (PID=35259) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:06:09,828] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:06:09,829] {logging_mixin.py:104} INFO - [2021-08-02 18:06:09,829] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:06:09,841] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:06:09,870] {logging_mixin.py:104} INFO - [2021-08-02 18:06:09,870] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:06:09,876] {logging_mixin.py:104} INFO - [2021-08-02 18:06:09,876] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:06:09,882] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.056 seconds
+[2021-08-02 18:07:04,965] {scheduler_job.py:181} INFO - Started process (PID=35332) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:07:04,967] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:07:04,967] {logging_mixin.py:104} INFO - [2021-08-02 18:07:04,967] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:07:04,974] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:07:04,997] {logging_mixin.py:104} INFO - [2021-08-02 18:07:04,997] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:07:05,002] {logging_mixin.py:104} INFO - [2021-08-02 18:07:05,002] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:07:05,011] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.046 seconds
+[2021-08-02 18:08:01,693] {scheduler_job.py:181} INFO - Started process (PID=35444) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:08:01,694] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:08:01,694] {logging_mixin.py:104} INFO - [2021-08-02 18:08:01,694] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:08:01,701] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:08:01,727] {logging_mixin.py:104} INFO - [2021-08-02 18:08:01,727] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:08:01,732] {logging_mixin.py:104} INFO - [2021-08-02 18:08:01,732] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:08:01,737] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 18:08:57,180] {scheduler_job.py:181} INFO - Started process (PID=35562) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:08:57,181] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:08:57,181] {logging_mixin.py:104} INFO - [2021-08-02 18:08:57,181] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:08:57,188] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:08:57,213] {logging_mixin.py:104} INFO - [2021-08-02 18:08:57,213] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:08:57,219] {logging_mixin.py:104} INFO - [2021-08-02 18:08:57,219] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:08:57,225] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.045 seconds
+[2021-08-02 18:09:55,054] {scheduler_job.py:181} INFO - Started process (PID=35660) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:09:55,055] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:09:55,055] {logging_mixin.py:104} INFO - [2021-08-02 18:09:55,055] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:09:55,062] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:09:55,085] {logging_mixin.py:104} INFO - [2021-08-02 18:09:55,085] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:09:55,091] {logging_mixin.py:104} INFO - [2021-08-02 18:09:55,090] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:09:55,096] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 18:10:51,515] {scheduler_job.py:181} INFO - Started process (PID=35772) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:10:51,517] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:10:51,517] {logging_mixin.py:104} INFO - [2021-08-02 18:10:51,517] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:10:51,524] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:10:51,557] {logging_mixin.py:104} INFO - [2021-08-02 18:10:51,557] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:10:51,565] {logging_mixin.py:104} INFO - [2021-08-02 18:10:51,565] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:10:51,574] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.060 seconds
+[2021-08-02 18:11:54,116] {scheduler_job.py:181} INFO - Started process (PID=35842) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:11:54,117] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:11:54,117] {logging_mixin.py:104} INFO - [2021-08-02 18:11:54,117] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:11:54,124] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:11:54,150] {logging_mixin.py:104} INFO - [2021-08-02 18:11:54,150] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:11:54,157] {logging_mixin.py:104} INFO - [2021-08-02 18:11:54,157] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:11:54,163] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.048 seconds
+[2021-08-02 18:12:52,511] {scheduler_job.py:181} INFO - Started process (PID=35914) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:12:52,512] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:12:52,512] {logging_mixin.py:104} INFO - [2021-08-02 18:12:52,512] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:12:52,535] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:12:52,564] {logging_mixin.py:104} INFO - [2021-08-02 18:12:52,564] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:12:52,570] {logging_mixin.py:104} INFO - [2021-08-02 18:12:52,570] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:12:52,576] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.065 seconds
+[2021-08-02 18:14:08,078] {scheduler_job.py:181} INFO - Started process (PID=36061) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:14:08,079] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:14:08,079] {logging_mixin.py:104} INFO - [2021-08-02 18:14:08,079] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:14:08,085] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:14:08,109] {logging_mixin.py:104} INFO - [2021-08-02 18:14:08,109] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:14:08,114] {logging_mixin.py:104} INFO - [2021-08-02 18:14:08,114] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:14:08,120] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 18:15:04,996] {scheduler_job.py:181} INFO - Started process (PID=36127) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:15:04,996] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:15:04,997] {logging_mixin.py:104} INFO - [2021-08-02 18:15:04,997] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:15:05,002] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:15:05,024] {logging_mixin.py:104} INFO - [2021-08-02 18:15:05,024] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:15:05,029] {logging_mixin.py:104} INFO - [2021-08-02 18:15:05,029] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:15:05,036] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-08-02 18:15:56,998] {scheduler_job.py:181} INFO - Started process (PID=36189) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:15:56,999] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:15:57,000] {logging_mixin.py:104} INFO - [2021-08-02 18:15:57,000] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:15:57,006] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:15:57,028] {logging_mixin.py:104} INFO - [2021-08-02 18:15:57,028] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:15:57,033] {logging_mixin.py:104} INFO - [2021-08-02 18:15:57,033] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:15:57,040] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 18:16:49,384] {scheduler_job.py:181} INFO - Started process (PID=36260) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:16:49,385] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:16:49,385] {logging_mixin.py:104} INFO - [2021-08-02 18:16:49,385] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:16:49,392] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:16:49,416] {logging_mixin.py:104} INFO - [2021-08-02 18:16:49,416] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:16:49,421] {logging_mixin.py:104} INFO - [2021-08-02 18:16:49,421] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:16:49,427] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 18:17:40,067] {scheduler_job.py:181} INFO - Started process (PID=36331) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:17:40,068] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:17:40,069] {logging_mixin.py:104} INFO - [2021-08-02 18:17:40,069] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:17:40,075] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:17:40,099] {logging_mixin.py:104} INFO - [2021-08-02 18:17:40,099] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:17:40,105] {logging_mixin.py:104} INFO - [2021-08-02 18:17:40,104] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:17:40,110] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 18:18:31,459] {scheduler_job.py:181} INFO - Started process (PID=36389) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:18:31,460] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:18:31,461] {logging_mixin.py:104} INFO - [2021-08-02 18:18:31,461] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:18:31,467] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:18:31,491] {logging_mixin.py:104} INFO - [2021-08-02 18:18:31,490] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:18:31,496] {logging_mixin.py:104} INFO - [2021-08-02 18:18:31,496] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:18:31,502] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 18:19:24,970] {scheduler_job.py:181} INFO - Started process (PID=36450) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:19:24,971] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:19:24,972] {logging_mixin.py:104} INFO - [2021-08-02 18:19:24,972] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:19:24,979] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:19:25,002] {logging_mixin.py:104} INFO - [2021-08-02 18:19:25,002] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:19:25,008] {logging_mixin.py:104} INFO - [2021-08-02 18:19:25,007] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:19:25,014] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.045 seconds
+[2021-08-02 18:20:17,333] {scheduler_job.py:181} INFO - Started process (PID=36512) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:20:17,333] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:20:17,333] {logging_mixin.py:104} INFO - [2021-08-02 18:20:17,333] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:20:17,338] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:20:17,360] {logging_mixin.py:104} INFO - [2021-08-02 18:20:17,360] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:20:17,365] {logging_mixin.py:104} INFO - [2021-08-02 18:20:17,365] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:20:17,372] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-08-02 18:21:07,758] {scheduler_job.py:181} INFO - Started process (PID=36573) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:21:07,758] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:21:07,759] {logging_mixin.py:104} INFO - [2021-08-02 18:21:07,759] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:21:07,764] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:21:07,786] {logging_mixin.py:104} INFO - [2021-08-02 18:21:07,786] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:21:07,791] {logging_mixin.py:104} INFO - [2021-08-02 18:21:07,791] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:21:07,797] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-08-02 18:21:56,604] {scheduler_job.py:181} INFO - Started process (PID=36633) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:21:56,604] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:21:56,604] {logging_mixin.py:104} INFO - [2021-08-02 18:21:56,604] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:21:56,610] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:21:56,632] {logging_mixin.py:104} INFO - [2021-08-02 18:21:56,632] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:21:56,638] {logging_mixin.py:104} INFO - [2021-08-02 18:21:56,637] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:21:56,644] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-08-02 18:22:47,545] {scheduler_job.py:181} INFO - Started process (PID=36691) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:22:47,547] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:22:47,548] {logging_mixin.py:104} INFO - [2021-08-02 18:22:47,548] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:22:47,559] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:22:47,589] {logging_mixin.py:104} INFO - [2021-08-02 18:22:47,588] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:22:47,594] {logging_mixin.py:104} INFO - [2021-08-02 18:22:47,594] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:22:47,602] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.057 seconds
+[2021-08-02 18:23:39,759] {scheduler_job.py:181} INFO - Started process (PID=36754) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:23:39,761] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:23:39,762] {logging_mixin.py:104} INFO - [2021-08-02 18:23:39,762] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:23:39,769] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:23:39,792] {logging_mixin.py:104} INFO - [2021-08-02 18:23:39,792] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:23:39,797] {logging_mixin.py:104} INFO - [2021-08-02 18:23:39,797] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:23:39,803] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 18:24:35,518] {scheduler_job.py:181} INFO - Started process (PID=36840) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:24:35,519] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:24:35,519] {logging_mixin.py:104} INFO - [2021-08-02 18:24:35,519] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:24:35,525] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:24:35,547] {logging_mixin.py:104} INFO - [2021-08-02 18:24:35,547] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:24:35,552] {logging_mixin.py:104} INFO - [2021-08-02 18:24:35,552] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:24:35,558] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-08-02 18:25:28,441] {scheduler_job.py:181} INFO - Started process (PID=36919) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:25:28,442] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:25:28,442] {logging_mixin.py:104} INFO - [2021-08-02 18:25:28,442] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:25:28,448] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:25:28,471] {logging_mixin.py:104} INFO - [2021-08-02 18:25:28,471] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:25:28,476] {logging_mixin.py:104} INFO - [2021-08-02 18:25:28,476] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:25:28,483] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-08-02 18:26:20,765] {scheduler_job.py:181} INFO - Started process (PID=36980) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:26:20,765] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:26:20,766] {logging_mixin.py:104} INFO - [2021-08-02 18:26:20,766] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:26:20,770] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:26:20,793] {logging_mixin.py:104} INFO - [2021-08-02 18:26:20,792] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:26:20,798] {logging_mixin.py:104} INFO - [2021-08-02 18:26:20,798] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:26:20,805] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-08-02 18:27:13,630] {scheduler_job.py:181} INFO - Started process (PID=37042) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:27:13,630] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:27:13,630] {logging_mixin.py:104} INFO - [2021-08-02 18:27:13,630] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:27:13,635] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:27:13,657] {logging_mixin.py:104} INFO - [2021-08-02 18:27:13,657] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:27:13,662] {logging_mixin.py:104} INFO - [2021-08-02 18:27:13,662] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:27:13,669] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-08-02 18:28:06,025] {scheduler_job.py:181} INFO - Started process (PID=37102) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:28:06,025] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:28:06,025] {logging_mixin.py:104} INFO - [2021-08-02 18:28:06,025] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:28:06,030] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:28:06,053] {logging_mixin.py:104} INFO - [2021-08-02 18:28:06,053] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:28:06,058] {logging_mixin.py:104} INFO - [2021-08-02 18:28:06,058] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:28:06,065] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-08-02 18:28:58,420] {scheduler_job.py:181} INFO - Started process (PID=37164) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:28:58,421] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:28:58,422] {logging_mixin.py:104} INFO - [2021-08-02 18:28:58,422] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:28:58,428] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:28:58,452] {logging_mixin.py:104} INFO - [2021-08-02 18:28:58,452] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:28:58,458] {logging_mixin.py:104} INFO - [2021-08-02 18:28:58,458] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:28:58,464] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.045 seconds
+[2021-08-02 18:29:50,700] {scheduler_job.py:181} INFO - Started process (PID=37225) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:29:50,701] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:29:50,701] {logging_mixin.py:104} INFO - [2021-08-02 18:29:50,701] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:29:50,707] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:29:50,729] {logging_mixin.py:104} INFO - [2021-08-02 18:29:50,729] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:29:50,734] {logging_mixin.py:104} INFO - [2021-08-02 18:29:50,734] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:29:50,740] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-08-02 18:30:42,394] {scheduler_job.py:181} INFO - Started process (PID=37287) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:30:42,396] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:30:42,396] {logging_mixin.py:104} INFO - [2021-08-02 18:30:42,396] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:30:42,408] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:30:42,436] {logging_mixin.py:104} INFO - [2021-08-02 18:30:42,436] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:30:42,441] {logging_mixin.py:104} INFO - [2021-08-02 18:30:42,441] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:30:42,448] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.055 seconds
+[2021-08-02 18:31:32,569] {scheduler_job.py:181} INFO - Started process (PID=37348) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:31:32,570] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:31:32,570] {logging_mixin.py:104} INFO - [2021-08-02 18:31:32,570] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:31:32,576] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:31:32,598] {logging_mixin.py:104} INFO - [2021-08-02 18:31:32,598] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:31:32,603] {logging_mixin.py:104} INFO - [2021-08-02 18:31:32,603] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:31:32,609] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-08-02 18:32:23,495] {scheduler_job.py:181} INFO - Started process (PID=37406) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:32:23,497] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:32:23,497] {logging_mixin.py:104} INFO - [2021-08-02 18:32:23,497] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:32:23,508] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:32:23,536] {logging_mixin.py:104} INFO - [2021-08-02 18:32:23,536] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:32:23,542] {logging_mixin.py:104} INFO - [2021-08-02 18:32:23,542] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:32:23,548] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.053 seconds
+[2021-08-02 18:33:14,746] {scheduler_job.py:181} INFO - Started process (PID=37469) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:33:14,747] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:33:14,747] {logging_mixin.py:104} INFO - [2021-08-02 18:33:14,747] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:33:14,753] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:33:14,775] {logging_mixin.py:104} INFO - [2021-08-02 18:33:14,775] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:33:14,780] {logging_mixin.py:104} INFO - [2021-08-02 18:33:14,780] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:33:14,785] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-08-02 18:34:07,944] {scheduler_job.py:181} INFO - Started process (PID=37532) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:34:07,945] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:34:07,945] {logging_mixin.py:104} INFO - [2021-08-02 18:34:07,945] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:34:07,951] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:34:07,973] {logging_mixin.py:104} INFO - [2021-08-02 18:34:07,972] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:34:07,978] {logging_mixin.py:104} INFO - [2021-08-02 18:34:07,977] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:34:07,983] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-08-02 18:35:00,622] {scheduler_job.py:181} INFO - Started process (PID=37593) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:35:00,624] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:35:00,624] {logging_mixin.py:104} INFO - [2021-08-02 18:35:00,624] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:35:00,630] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:35:00,652] {logging_mixin.py:104} INFO - [2021-08-02 18:35:00,652] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:35:00,657] {logging_mixin.py:104} INFO - [2021-08-02 18:35:00,657] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:35:00,664] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 18:35:52,409] {scheduler_job.py:181} INFO - Started process (PID=37653) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:35:52,411] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:35:52,411] {logging_mixin.py:104} INFO - [2021-08-02 18:35:52,411] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:35:52,418] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:35:52,442] {logging_mixin.py:104} INFO - [2021-08-02 18:35:52,441] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:35:52,446] {logging_mixin.py:104} INFO - [2021-08-02 18:35:52,446] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:35:52,454] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.046 seconds
+[2021-08-02 18:36:45,013] {scheduler_job.py:181} INFO - Started process (PID=37714) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:36:45,015] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:36:45,016] {logging_mixin.py:104} INFO - [2021-08-02 18:36:45,016] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:36:45,027] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:36:45,055] {logging_mixin.py:104} INFO - [2021-08-02 18:36:45,055] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:36:45,061] {logging_mixin.py:104} INFO - [2021-08-02 18:36:45,061] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:36:45,067] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.054 seconds
+[2021-08-02 18:37:37,732] {scheduler_job.py:181} INFO - Started process (PID=37775) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:37:37,734] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:37:37,734] {logging_mixin.py:104} INFO - [2021-08-02 18:37:37,734] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:37:37,742] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:37:37,765] {logging_mixin.py:104} INFO - [2021-08-02 18:37:37,765] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:37:37,770] {logging_mixin.py:104} INFO - [2021-08-02 18:37:37,770] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:37:37,778] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.046 seconds
+[2021-08-02 18:38:29,456] {scheduler_job.py:181} INFO - Started process (PID=37835) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:38:29,456] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:38:29,457] {logging_mixin.py:104} INFO - [2021-08-02 18:38:29,457] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:38:29,462] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:38:29,483] {logging_mixin.py:104} INFO - [2021-08-02 18:38:29,483] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:38:29,488] {logging_mixin.py:104} INFO - [2021-08-02 18:38:29,488] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:38:29,496] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-08-02 18:39:21,901] {scheduler_job.py:181} INFO - Started process (PID=37900) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:39:21,902] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:39:21,902] {logging_mixin.py:104} INFO - [2021-08-02 18:39:21,902] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:39:21,913] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:39:21,942] {logging_mixin.py:104} INFO - [2021-08-02 18:39:21,942] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:39:21,947] {logging_mixin.py:104} INFO - [2021-08-02 18:39:21,947] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:39:21,955] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.055 seconds
+[2021-08-02 18:40:12,873] {scheduler_job.py:181} INFO - Started process (PID=37961) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:40:12,874] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:40:12,874] {logging_mixin.py:104} INFO - [2021-08-02 18:40:12,874] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:40:12,879] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:40:12,901] {logging_mixin.py:104} INFO - [2021-08-02 18:40:12,900] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:40:12,906] {logging_mixin.py:104} INFO - [2021-08-02 18:40:12,905] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:40:12,911] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.038 seconds
+[2021-08-02 18:41:03,417] {scheduler_job.py:181} INFO - Started process (PID=38021) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:41:03,419] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:41:03,419] {logging_mixin.py:104} INFO - [2021-08-02 18:41:03,419] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:41:03,430] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:41:03,459] {logging_mixin.py:104} INFO - [2021-08-02 18:41:03,458] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:41:03,464] {logging_mixin.py:104} INFO - [2021-08-02 18:41:03,464] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:41:03,470] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.054 seconds
+[2021-08-02 18:41:55,094] {scheduler_job.py:181} INFO - Started process (PID=38084) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:41:55,096] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:41:55,096] {logging_mixin.py:104} INFO - [2021-08-02 18:41:55,096] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:41:55,103] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:41:55,125] {logging_mixin.py:104} INFO - [2021-08-02 18:41:55,125] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:41:55,131] {logging_mixin.py:104} INFO - [2021-08-02 18:41:55,131] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:41:55,137] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-08-02 18:42:48,922] {scheduler_job.py:181} INFO - Started process (PID=38148) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:42:48,923] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:42:48,924] {logging_mixin.py:104} INFO - [2021-08-02 18:42:48,924] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:42:48,931] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:42:48,954] {logging_mixin.py:104} INFO - [2021-08-02 18:42:48,954] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:42:48,959] {logging_mixin.py:104} INFO - [2021-08-02 18:42:48,959] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:42:48,965] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-08-02 18:44:09,755] {scheduler_job.py:181} INFO - Started process (PID=38190) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:44:09,756] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 18:44:09,757] {logging_mixin.py:104} INFO - [2021-08-02 18:44:09,756] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:44:09,772] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 18:44:09,838] {logging_mixin.py:104} INFO - [2021-08-02 18:44:09,837] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 18:44:09,853] {logging_mixin.py:104} INFO - [2021-08-02 18:44:09,853] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 18:44:09,868] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.114 seconds
+[2021-08-02 19:21:17,887] {scheduler_job.py:181} INFO - Started process (PID=38287) to work on /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 19:21:17,888] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-08-02 19:21:17,888] {logging_mixin.py:104} INFO - [2021-08-02 19:21:17,888] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 19:21:17,894] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-08-02 19:21:17,918] {logging_mixin.py:104} INFO - [2021-08-02 19:21:17,918] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-02 19:21:17,924] {logging_mixin.py:104} INFO - [2021-08-02 19:21:17,924] {dag.py:2306} INFO - Setting next_dagrun for test_utils to None
+[2021-08-02 19:21:17,932] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/airflow-tutorial/env_airflow/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.045 seconds

@@ -1,0 +1,28 @@
+[2021-08-21 22:16:51,744] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: testing_airflow.print_date 2021-08-21T00:00:00+00:00 [queued]>
+[2021-08-21 22:16:51,748] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: testing_airflow.print_date 2021-08-21T00:00:00+00:00 [queued]>
+[2021-08-21 22:16:51,748] {taskinstance.py:1087} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-21 22:16:51,748] {taskinstance.py:1088} INFO - Starting attempt 1 of 2
+[2021-08-21 22:16:51,748] {taskinstance.py:1089} INFO - 
+--------------------------------------------------------------------------------
+[2021-08-21 22:16:51,753] {taskinstance.py:1107} INFO - Executing <Task(BashOperator): print_date> on 2021-08-21T00:00:00+00:00
+[2021-08-21 22:16:51,755] {standard_task_runner.py:52} INFO - Started process 26895 to run task
+[2021-08-21 22:16:51,763] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'testing_airflow', 'print_date', '2021-08-21T00:00:00+00:00', '--job-id', '50', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/Airflow.py', '--cfg-path', '/var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T/tmpoygfiofk', '--error-file', '/var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T/tmpkz3nprb3']
+[2021-08-21 22:16:51,764] {standard_task_runner.py:77} INFO - Job 50: Subtask print_date
+[2021-08-21 22:16:51,798] {logging_mixin.py:104} INFO - Running <TaskInstance: testing_airflow.print_date 2021-08-21T00:00:00+00:00 [running]> on host 1.0.0.127.in-addr.arpa
+[2021-08-21 22:16:51,829] {taskinstance.py:1300} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=testing_airflow
+AIRFLOW_CTX_TASK_ID=print_date
+AIRFLOW_CTX_EXECUTION_DATE=2021-08-21T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-08-21T00:00:00+00:00
+[2021-08-21 22:16:51,830] {subprocess.py:52} INFO - Tmp dir root location: 
+ /var/folders/kh/c93m3t_d2rgcvcbylylqtx240000gn/T
+[2021-08-21 22:16:51,831] {subprocess.py:63} INFO - Running command: ['bash', '-c', 'date']
+[2021-08-21 22:16:51,838] {subprocess.py:74} INFO - Output:
+[2021-08-21 22:16:51,845] {subprocess.py:78} INFO - Sat 21 Aug 2021 22:16:51 EDT
+[2021-08-21 22:16:51,846] {subprocess.py:82} INFO - Command exited with return code 0
+[2021-08-21 22:16:51,861] {taskinstance.py:1204} INFO - Marking task as SUCCESS. dag_id=testing_airflow, task_id=print_date, execution_date=20210821T000000, start_date=20210822T021651, end_date=20210822T021651
+[2021-08-21 22:16:51,875] {taskinstance.py:1265} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2021-08-21 22:16:51,900] {local_task_job.py:149} INFO - Task exited with return code 0

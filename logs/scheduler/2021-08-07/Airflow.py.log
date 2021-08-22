@@ -1,0 +1,1246 @@
+[2021-08-06 20:01:00,758] {scheduler_job.py:181} INFO - Started process (PID=82040) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:01:00,758] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:01:00,758] {logging_mixin.py:104} INFO - [2021-08-06 20:01:00,758] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:01:00,767] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:01:00,993] {logging_mixin.py:104} INFO - [2021-08-06 20:01:00,992] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:01:00,999] {logging_mixin.py:104} INFO - [2021-08-06 20:01:00,999] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:01:01,008] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.251 seconds
+[2021-08-06 20:02:02,650] {scheduler_job.py:181} INFO - Started process (PID=82107) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:02:02,650] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:02:02,650] {logging_mixin.py:104} INFO - [2021-08-06 20:02:02,650] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:02:02,655] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:02:02,679] {logging_mixin.py:104} INFO - [2021-08-06 20:02:02,679] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:02:02,684] {logging_mixin.py:104} INFO - [2021-08-06 20:02:02,684] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:02:02,692] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.043 seconds
+[2021-08-06 20:03:26,745] {scheduler_job.py:181} INFO - Started process (PID=82204) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:03:26,747] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:03:26,747] {logging_mixin.py:104} INFO - [2021-08-06 20:03:26,747] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:03:26,756] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:03:26,985] {logging_mixin.py:104} INFO - [2021-08-06 20:03:26,985] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:03:26,992] {logging_mixin.py:104} INFO - [2021-08-06 20:03:26,992] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:03:27,002] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.257 seconds
+[2021-08-06 20:04:48,959] {scheduler_job.py:181} INFO - Started process (PID=82299) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:04:48,960] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:04:48,960] {logging_mixin.py:104} INFO - [2021-08-06 20:04:48,960] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:04:48,969] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:04:49,198] {logging_mixin.py:104} INFO - [2021-08-06 20:04:49,198] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:04:49,205] {logging_mixin.py:104} INFO - [2021-08-06 20:04:49,205] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:04:49,216] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.258 seconds
+[2021-08-06 20:06:06,223] {scheduler_job.py:181} INFO - Started process (PID=82388) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:06:06,223] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:06:06,223] {logging_mixin.py:104} INFO - [2021-08-06 20:06:06,223] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:06:06,229] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:06:06,233] {logging_mixin.py:104} INFO - [2021-08-06 20:06:06,233] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:06:06,255] {logging_mixin.py:104} INFO - [2021-08-06 20:06:06,255] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:06:06,262] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 20:07:27,474] {scheduler_job.py:181} INFO - Started process (PID=82482) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:07:27,474] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:07:27,475] {logging_mixin.py:104} INFO - [2021-08-06 20:07:27,475] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:07:27,480] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:07:27,704] {logging_mixin.py:104} INFO - [2021-08-06 20:07:27,704] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:07:27,711] {logging_mixin.py:104} INFO - [2021-08-06 20:07:27,710] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:07:27,720] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.246 seconds
+[2021-08-06 20:08:54,186] {scheduler_job.py:181} INFO - Started process (PID=82583) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:08:54,188] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:08:54,188] {logging_mixin.py:104} INFO - [2021-08-06 20:08:54,188] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:08:54,194] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:08:54,199] {logging_mixin.py:104} INFO - [2021-08-06 20:08:54,199] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:08:54,222] {logging_mixin.py:104} INFO - [2021-08-06 20:08:54,222] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:08:54,228] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.042 seconds
+[2021-08-06 20:10:17,251] {scheduler_job.py:181} INFO - Started process (PID=82676) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:10:17,252] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:10:17,252] {logging_mixin.py:104} INFO - [2021-08-06 20:10:17,252] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:10:17,260] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:10:17,488] {logging_mixin.py:104} INFO - [2021-08-06 20:10:17,488] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:10:17,495] {logging_mixin.py:104} INFO - [2021-08-06 20:10:17,495] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:10:17,504] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.253 seconds
+[2021-08-06 20:11:34,025] {scheduler_job.py:181} INFO - Started process (PID=82766) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:11:34,025] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:11:34,025] {logging_mixin.py:104} INFO - [2021-08-06 20:11:34,025] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:11:34,031] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:11:34,036] {logging_mixin.py:104} INFO - [2021-08-06 20:11:34,036] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:11:34,058] {logging_mixin.py:104} INFO - [2021-08-06 20:11:34,058] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:11:34,065] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 20:12:53,772] {scheduler_job.py:181} INFO - Started process (PID=82858) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:12:53,772] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:12:53,772] {logging_mixin.py:104} INFO - [2021-08-06 20:12:53,772] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:12:53,777] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:12:53,999] {logging_mixin.py:104} INFO - [2021-08-06 20:12:53,999] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:12:54,006] {logging_mixin.py:104} INFO - [2021-08-06 20:12:54,006] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:12:54,017] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.246 seconds
+[2021-08-06 20:13:51,979] {scheduler_job.py:181} INFO - Started process (PID=82925) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:13:51,979] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:13:51,979] {logging_mixin.py:104} INFO - [2021-08-06 20:13:51,979] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:13:51,984] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:13:52,008] {logging_mixin.py:104} INFO - [2021-08-06 20:13:52,008] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:13:52,014] {logging_mixin.py:104} INFO - [2021-08-06 20:13:52,014] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:13:52,022] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.043 seconds
+[2021-08-06 20:15:12,710] {scheduler_job.py:181} INFO - Started process (PID=83019) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:15:12,710] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:15:12,711] {logging_mixin.py:104} INFO - [2021-08-06 20:15:12,711] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:15:12,716] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:15:12,955] {logging_mixin.py:104} INFO - [2021-08-06 20:15:12,955] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:15:12,962] {logging_mixin.py:104} INFO - [2021-08-06 20:15:12,962] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:15:12,971] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.262 seconds
+[2021-08-06 20:16:34,317] {scheduler_job.py:181} INFO - Started process (PID=83115) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:16:34,318] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:16:34,319] {logging_mixin.py:104} INFO - [2021-08-06 20:16:34,319] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:16:34,328] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:16:34,555] {logging_mixin.py:104} INFO - [2021-08-06 20:16:34,555] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:16:34,562] {logging_mixin.py:104} INFO - [2021-08-06 20:16:34,562] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:16:34,571] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.255 seconds
+[2021-08-06 20:17:32,335] {scheduler_job.py:181} INFO - Started process (PID=83182) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:17:32,336] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:17:32,336] {logging_mixin.py:104} INFO - [2021-08-06 20:17:32,336] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:17:32,341] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:17:32,366] {logging_mixin.py:104} INFO - [2021-08-06 20:17:32,366] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:17:32,372] {logging_mixin.py:104} INFO - [2021-08-06 20:17:32,371] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:17:32,378] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.043 seconds
+[2021-08-06 20:18:58,105] {scheduler_job.py:181} INFO - Started process (PID=83281) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:18:58,109] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:18:58,110] {logging_mixin.py:104} INFO - [2021-08-06 20:18:58,110] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:18:58,126] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:18:58,539] {logging_mixin.py:104} INFO - [2021-08-06 20:18:58,539] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:18:58,544] {logging_mixin.py:104} INFO - [2021-08-06 20:18:58,544] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:18:58,552] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.447 seconds
+[2021-08-06 20:20:18,219] {scheduler_job.py:181} INFO - Started process (PID=83372) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:20:18,220] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:20:18,220] {logging_mixin.py:104} INFO - [2021-08-06 20:20:18,220] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:20:18,225] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:20:18,450] {logging_mixin.py:104} INFO - [2021-08-06 20:20:18,449] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:20:18,456] {logging_mixin.py:104} INFO - [2021-08-06 20:20:18,456] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:20:18,465] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.246 seconds
+[2021-08-06 20:21:42,644] {scheduler_job.py:181} INFO - Started process (PID=83467) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:21:42,644] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:21:42,645] {logging_mixin.py:104} INFO - [2021-08-06 20:21:42,645] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:21:42,650] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:21:42,653] {logging_mixin.py:104} INFO - [2021-08-06 20:21:42,653] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:21:42,676] {logging_mixin.py:104} INFO - [2021-08-06 20:21:42,676] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:21:42,684] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 20:23:06,818] {scheduler_job.py:181} INFO - Started process (PID=83562) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:23:06,819] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:23:06,820] {logging_mixin.py:104} INFO - [2021-08-06 20:23:06,820] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:23:06,827] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:23:07,059] {logging_mixin.py:104} INFO - [2021-08-06 20:23:07,059] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:23:07,067] {logging_mixin.py:104} INFO - [2021-08-06 20:23:07,067] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:23:07,076] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.259 seconds
+[2021-08-06 20:24:26,513] {scheduler_job.py:181} INFO - Started process (PID=83658) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:24:26,514] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:24:26,515] {logging_mixin.py:104} INFO - [2021-08-06 20:24:26,515] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:24:26,523] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:24:26,526] {logging_mixin.py:104} INFO - [2021-08-06 20:24:26,526] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:24:26,551] {logging_mixin.py:104} INFO - [2021-08-06 20:24:26,551] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:24:26,557] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.045 seconds
+[2021-08-06 20:25:46,271] {scheduler_job.py:181} INFO - Started process (PID=83752) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:25:46,272] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:25:46,272] {logging_mixin.py:104} INFO - [2021-08-06 20:25:46,272] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:25:46,279] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:25:46,506] {logging_mixin.py:104} INFO - [2021-08-06 20:25:46,506] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:25:46,513] {logging_mixin.py:104} INFO - [2021-08-06 20:25:46,513] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:25:46,522] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.252 seconds
+[2021-08-06 20:27:16,403] {scheduler_job.py:181} INFO - Started process (PID=83854) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:27:16,404] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:27:16,404] {logging_mixin.py:104} INFO - [2021-08-06 20:27:16,404] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:27:16,412] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:27:16,415] {logging_mixin.py:104} INFO - [2021-08-06 20:27:16,415] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:27:16,439] {logging_mixin.py:104} INFO - [2021-08-06 20:27:16,439] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:27:16,446] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.044 seconds
+[2021-08-06 20:28:38,542] {scheduler_job.py:181} INFO - Started process (PID=83950) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:28:38,543] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:28:38,543] {logging_mixin.py:104} INFO - [2021-08-06 20:28:38,543] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:28:38,549] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:28:38,779] {logging_mixin.py:104} INFO - [2021-08-06 20:28:38,779] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:28:38,786] {logging_mixin.py:104} INFO - [2021-08-06 20:28:38,786] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:28:38,796] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.254 seconds
+[2021-08-06 20:29:57,262] {scheduler_job.py:181} INFO - Started process (PID=84041) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:29:57,263] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:29:57,264] {logging_mixin.py:104} INFO - [2021-08-06 20:29:57,264] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:29:57,272] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:29:57,276] {logging_mixin.py:104} INFO - [2021-08-06 20:29:57,275] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:29:57,300] {logging_mixin.py:104} INFO - [2021-08-06 20:29:57,300] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:29:57,306] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.044 seconds
+[2021-08-06 20:31:17,967] {scheduler_job.py:181} INFO - Started process (PID=84134) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:31:17,967] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:31:17,968] {logging_mixin.py:104} INFO - [2021-08-06 20:31:17,967] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:31:17,973] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:31:18,195] {logging_mixin.py:104} INFO - [2021-08-06 20:31:18,195] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:31:18,204] {logging_mixin.py:104} INFO - [2021-08-06 20:31:18,204] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:31:18,213] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.246 seconds
+[2021-08-06 20:32:40,150] {scheduler_job.py:181} INFO - Started process (PID=84231) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:32:40,150] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:32:40,150] {logging_mixin.py:104} INFO - [2021-08-06 20:32:40,150] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:32:40,156] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:32:40,160] {logging_mixin.py:104} INFO - [2021-08-06 20:32:40,160] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:32:40,184] {logging_mixin.py:104} INFO - [2021-08-06 20:32:40,184] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:32:40,190] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 20:34:01,891] {scheduler_job.py:181} INFO - Started process (PID=84326) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:34:01,891] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:34:01,891] {logging_mixin.py:104} INFO - [2021-08-06 20:34:01,891] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:34:01,896] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:34:02,125] {logging_mixin.py:104} INFO - [2021-08-06 20:34:02,125] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:34:02,132] {logging_mixin.py:104} INFO - [2021-08-06 20:34:02,132] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:34:02,141] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.251 seconds
+[2021-08-06 20:35:20,604] {scheduler_job.py:181} INFO - Started process (PID=84417) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:35:20,606] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:35:20,606] {logging_mixin.py:104} INFO - [2021-08-06 20:35:20,606] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:35:20,614] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:35:20,619] {logging_mixin.py:104} INFO - [2021-08-06 20:35:20,619] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:35:20,642] {logging_mixin.py:104} INFO - [2021-08-06 20:35:20,642] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:35:20,649] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.045 seconds
+[2021-08-06 20:36:42,910] {scheduler_job.py:181} INFO - Started process (PID=84509) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:36:42,913] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:36:42,913] {logging_mixin.py:104} INFO - [2021-08-06 20:36:42,913] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:36:42,921] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:36:43,146] {logging_mixin.py:104} INFO - [2021-08-06 20:36:43,145] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:36:43,153] {logging_mixin.py:104} INFO - [2021-08-06 20:36:43,153] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:36:43,162] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.253 seconds
+[2021-08-06 20:37:44,484] {scheduler_job.py:181} INFO - Started process (PID=84580) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:37:44,486] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:37:44,486] {logging_mixin.py:104} INFO - [2021-08-06 20:37:44,486] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:37:44,494] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:37:44,519] {logging_mixin.py:104} INFO - [2021-08-06 20:37:44,519] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:37:44,524] {logging_mixin.py:104} INFO - [2021-08-06 20:37:44,524] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:37:44,530] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.047 seconds
+[2021-08-06 20:39:05,923] {scheduler_job.py:181} INFO - Started process (PID=84679) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:39:05,923] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:39:05,923] {logging_mixin.py:104} INFO - [2021-08-06 20:39:05,923] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:39:05,929] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:39:06,155] {logging_mixin.py:104} INFO - [2021-08-06 20:39:06,155] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:39:06,161] {logging_mixin.py:104} INFO - [2021-08-06 20:39:06,161] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:39:06,169] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.247 seconds
+[2021-08-06 20:40:27,051] {scheduler_job.py:181} INFO - Started process (PID=84786) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:40:27,051] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:40:27,051] {logging_mixin.py:104} INFO - [2021-08-06 20:40:27,051] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:40:27,057] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:40:27,284] {logging_mixin.py:104} INFO - [2021-08-06 20:40:27,283] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:40:27,291] {logging_mixin.py:104} INFO - [2021-08-06 20:40:27,291] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:40:27,300] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.250 seconds
+[2021-08-06 20:41:49,737] {scheduler_job.py:181} INFO - Started process (PID=84879) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:41:49,738] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:41:49,739] {logging_mixin.py:104} INFO - [2021-08-06 20:41:49,738] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:41:49,746] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:41:49,751] {logging_mixin.py:104} INFO - [2021-08-06 20:41:49,751] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:41:49,773] {logging_mixin.py:104} INFO - [2021-08-06 20:41:49,773] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:41:49,781] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.045 seconds
+[2021-08-06 20:43:11,159] {scheduler_job.py:181} INFO - Started process (PID=84977) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:43:11,160] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:43:11,160] {logging_mixin.py:104} INFO - [2021-08-06 20:43:11,160] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:43:11,168] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:43:11,391] {logging_mixin.py:104} INFO - [2021-08-06 20:43:11,391] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:43:11,398] {logging_mixin.py:104} INFO - [2021-08-06 20:43:11,398] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:43:11,406] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.248 seconds
+[2021-08-06 20:44:32,536] {scheduler_job.py:181} INFO - Started process (PID=85071) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:44:32,537] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:44:32,537] {logging_mixin.py:104} INFO - [2021-08-06 20:44:32,537] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:44:32,544] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:44:32,547] {logging_mixin.py:104} INFO - [2021-08-06 20:44:32,547] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:44:32,571] {logging_mixin.py:104} INFO - [2021-08-06 20:44:32,571] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:44:32,578] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.043 seconds
+[2021-08-06 20:45:56,622] {scheduler_job.py:181} INFO - Started process (PID=85165) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:45:56,622] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:45:56,622] {logging_mixin.py:104} INFO - [2021-08-06 20:45:56,622] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:45:56,628] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:45:56,851] {logging_mixin.py:104} INFO - [2021-08-06 20:45:56,851] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:45:56,857] {logging_mixin.py:104} INFO - [2021-08-06 20:45:56,857] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:45:56,866] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.245 seconds
+[2021-08-06 20:47:18,609] {scheduler_job.py:181} INFO - Started process (PID=85259) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:47:18,610] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:47:18,610] {logging_mixin.py:104} INFO - [2021-08-06 20:47:18,610] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:47:18,615] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:47:18,619] {logging_mixin.py:104} INFO - [2021-08-06 20:47:18,619] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:47:18,641] {logging_mixin.py:104} INFO - [2021-08-06 20:47:18,641] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:47:18,649] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 20:48:41,042] {scheduler_job.py:181} INFO - Started process (PID=85358) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:48:41,043] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:48:41,043] {logging_mixin.py:104} INFO - [2021-08-06 20:48:41,043] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:48:41,050] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:48:41,272] {logging_mixin.py:104} INFO - [2021-08-06 20:48:41,272] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:48:41,278] {logging_mixin.py:104} INFO - [2021-08-06 20:48:41,278] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:48:41,288] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.246 seconds
+[2021-08-06 20:50:05,909] {scheduler_job.py:181} INFO - Started process (PID=85456) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:50:05,911] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:50:05,912] {logging_mixin.py:104} INFO - [2021-08-06 20:50:05,912] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:50:05,921] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:50:05,925] {logging_mixin.py:104} INFO - [2021-08-06 20:50:05,925] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:50:05,950] {logging_mixin.py:104} INFO - [2021-08-06 20:50:05,950] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:50:05,957] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.048 seconds
+[2021-08-06 20:51:26,552] {scheduler_job.py:181} INFO - Started process (PID=85548) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:51:26,552] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:51:26,553] {logging_mixin.py:104} INFO - [2021-08-06 20:51:26,552] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:51:26,559] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:51:26,784] {logging_mixin.py:104} INFO - [2021-08-06 20:51:26,784] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:51:26,792] {logging_mixin.py:104} INFO - [2021-08-06 20:51:26,792] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:51:26,801] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.249 seconds
+[2021-08-06 20:52:56,241] {scheduler_job.py:181} INFO - Started process (PID=85655) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:52:56,242] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:52:56,243] {logging_mixin.py:104} INFO - [2021-08-06 20:52:56,243] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:52:56,249] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:52:56,252] {logging_mixin.py:104} INFO - [2021-08-06 20:52:56,252] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:52:56,274] {logging_mixin.py:104} INFO - [2021-08-06 20:52:56,274] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:52:56,281] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 20:53:56,838] {scheduler_job.py:181} INFO - Started process (PID=85726) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:53:56,839] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:53:56,841] {logging_mixin.py:104} INFO - [2021-08-06 20:53:56,840] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:53:56,846] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:53:57,076] {logging_mixin.py:104} INFO - [2021-08-06 20:53:57,076] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:53:57,083] {logging_mixin.py:104} INFO - [2021-08-06 20:53:57,083] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:53:57,092] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.254 seconds
+[2021-08-06 20:55:19,499] {scheduler_job.py:181} INFO - Started process (PID=85820) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:55:19,500] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:55:19,500] {logging_mixin.py:104} INFO - [2021-08-06 20:55:19,500] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:55:19,505] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:55:19,733] {logging_mixin.py:104} INFO - [2021-08-06 20:55:19,733] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:55:19,741] {logging_mixin.py:104} INFO - [2021-08-06 20:55:19,740] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:55:19,751] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.252 seconds
+[2021-08-06 20:56:37,604] {scheduler_job.py:181} INFO - Started process (PID=85914) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:56:37,605] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:56:37,605] {logging_mixin.py:104} INFO - [2021-08-06 20:56:37,605] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:56:37,610] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:56:37,614] {logging_mixin.py:104} INFO - [2021-08-06 20:56:37,614] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:56:37,636] {logging_mixin.py:104} INFO - [2021-08-06 20:56:37,636] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:56:37,643] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.039 seconds
+[2021-08-06 20:57:58,165] {scheduler_job.py:181} INFO - Started process (PID=86013) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:57:58,166] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:57:58,166] {logging_mixin.py:104} INFO - [2021-08-06 20:57:58,166] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:57:58,178] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:57:58,409] {logging_mixin.py:104} INFO - [2021-08-06 20:57:58,409] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:57:58,417] {logging_mixin.py:104} INFO - [2021-08-06 20:57:58,417] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:57:58,426] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.261 seconds
+[2021-08-06 20:59:23,843] {scheduler_job.py:181} INFO - Started process (PID=86112) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:59:23,844] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 20:59:23,845] {logging_mixin.py:104} INFO - [2021-08-06 20:59:23,844] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:59:23,854] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 20:59:23,857] {logging_mixin.py:104} INFO - [2021-08-06 20:59:23,857] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 20:59:23,879] {logging_mixin.py:104} INFO - [2021-08-06 20:59:23,879] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 20:59:23,887] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.044 seconds
+[2021-08-06 21:00:43,849] {scheduler_job.py:181} INFO - Started process (PID=86211) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:00:43,849] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:00:43,849] {logging_mixin.py:104} INFO - [2021-08-06 21:00:43,849] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:00:43,855] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:00:44,085] {logging_mixin.py:104} INFO - [2021-08-06 21:00:44,085] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:00:44,092] {logging_mixin.py:104} INFO - [2021-08-06 21:00:44,092] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:00:44,102] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.254 seconds
+[2021-08-06 21:02:05,211] {scheduler_job.py:181} INFO - Started process (PID=86306) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:02:05,212] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:02:05,212] {logging_mixin.py:104} INFO - [2021-08-06 21:02:05,212] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:02:05,217] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:02:05,222] {logging_mixin.py:104} INFO - [2021-08-06 21:02:05,222] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:02:05,246] {logging_mixin.py:104} INFO - [2021-08-06 21:02:05,246] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:02:05,253] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.042 seconds
+[2021-08-06 21:03:27,661] {scheduler_job.py:181} INFO - Started process (PID=86400) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:03:27,661] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:03:27,661] {logging_mixin.py:104} INFO - [2021-08-06 21:03:27,661] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:03:27,667] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:03:27,892] {logging_mixin.py:104} INFO - [2021-08-06 21:03:27,892] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:03:27,899] {logging_mixin.py:104} INFO - [2021-08-06 21:03:27,898] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:03:27,908] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.247 seconds
+[2021-08-06 21:04:49,482] {scheduler_job.py:181} INFO - Started process (PID=86495) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:04:49,482] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:04:49,482] {logging_mixin.py:104} INFO - [2021-08-06 21:04:49,482] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:04:49,488] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:04:49,492] {logging_mixin.py:104} INFO - [2021-08-06 21:04:49,492] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:04:49,517] {logging_mixin.py:104} INFO - [2021-08-06 21:04:49,516] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:04:49,523] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 21:06:09,981] {scheduler_job.py:181} INFO - Started process (PID=86586) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:06:09,981] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:06:09,982] {logging_mixin.py:104} INFO - [2021-08-06 21:06:09,982] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:06:09,987] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:06:10,214] {logging_mixin.py:104} INFO - [2021-08-06 21:06:10,214] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:06:10,220] {logging_mixin.py:104} INFO - [2021-08-06 21:06:10,220] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:06:10,230] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.249 seconds
+[2021-08-06 21:07:29,166] {scheduler_job.py:181} INFO - Started process (PID=86680) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:07:29,167] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:07:29,167] {logging_mixin.py:104} INFO - [2021-08-06 21:07:29,167] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:07:29,172] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:07:29,175] {logging_mixin.py:104} INFO - [2021-08-06 21:07:29,175] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:07:29,200] {logging_mixin.py:104} INFO - [2021-08-06 21:07:29,200] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:07:29,208] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.042 seconds
+[2021-08-06 21:08:53,466] {scheduler_job.py:181} INFO - Started process (PID=86775) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:08:53,466] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:08:53,467] {logging_mixin.py:104} INFO - [2021-08-06 21:08:53,467] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:08:53,474] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:08:53,696] {logging_mixin.py:104} INFO - [2021-08-06 21:08:53,695] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:08:53,702] {logging_mixin.py:104} INFO - [2021-08-06 21:08:53,702] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:08:53,711] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.246 seconds
+[2021-08-06 21:10:15,915] {scheduler_job.py:181} INFO - Started process (PID=86870) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:10:15,915] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:10:15,915] {logging_mixin.py:104} INFO - [2021-08-06 21:10:15,915] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:10:15,920] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:10:15,924] {logging_mixin.py:104} INFO - [2021-08-06 21:10:15,924] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:10:15,948] {logging_mixin.py:104} INFO - [2021-08-06 21:10:15,948] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:10:15,955] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 21:11:36,170] {scheduler_job.py:181} INFO - Started process (PID=86963) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:11:36,170] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:11:36,170] {logging_mixin.py:104} INFO - [2021-08-06 21:11:36,170] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:11:36,176] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:11:36,403] {logging_mixin.py:104} INFO - [2021-08-06 21:11:36,403] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:11:36,409] {logging_mixin.py:104} INFO - [2021-08-06 21:11:36,409] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:11:36,419] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.249 seconds
+[2021-08-06 21:13:01,020] {scheduler_job.py:181} INFO - Started process (PID=87059) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:13:01,020] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:13:01,020] {logging_mixin.py:104} INFO - [2021-08-06 21:13:01,020] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:13:01,025] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:13:01,028] {logging_mixin.py:104} INFO - [2021-08-06 21:13:01,028] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:13:01,052] {logging_mixin.py:104} INFO - [2021-08-06 21:13:01,052] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:13:01,060] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 21:14:21,908] {scheduler_job.py:181} INFO - Started process (PID=87152) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:14:21,908] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:14:21,908] {logging_mixin.py:104} INFO - [2021-08-06 21:14:21,908] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:14:21,913] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:14:22,145] {logging_mixin.py:104} INFO - [2021-08-06 21:14:22,145] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:14:22,152] {logging_mixin.py:104} INFO - [2021-08-06 21:14:22,152] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:14:22,163] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.256 seconds
+[2021-08-06 21:15:42,992] {scheduler_job.py:181} INFO - Started process (PID=87246) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:15:42,994] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:15:42,994] {logging_mixin.py:104} INFO - [2021-08-06 21:15:42,994] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:15:43,002] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:15:43,005] {logging_mixin.py:104} INFO - [2021-08-06 21:15:43,005] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:15:43,028] {logging_mixin.py:104} INFO - [2021-08-06 21:15:43,028] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:15:43,037] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.046 seconds
+[2021-08-06 21:17:05,499] {scheduler_job.py:181} INFO - Started process (PID=87341) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:17:05,499] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:17:05,500] {logging_mixin.py:104} INFO - [2021-08-06 21:17:05,500] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:17:05,505] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:17:05,732] {logging_mixin.py:104} INFO - [2021-08-06 21:17:05,732] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:17:05,739] {logging_mixin.py:104} INFO - [2021-08-06 21:17:05,739] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:17:05,749] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.250 seconds
+[2021-08-06 21:18:27,915] {scheduler_job.py:181} INFO - Started process (PID=87438) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:18:27,916] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:18:27,916] {logging_mixin.py:104} INFO - [2021-08-06 21:18:27,916] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:18:27,921] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:18:27,925] {logging_mixin.py:104} INFO - [2021-08-06 21:18:27,925] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:18:27,949] {logging_mixin.py:104} INFO - [2021-08-06 21:18:27,949] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:18:27,956] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 21:19:47,462] {scheduler_job.py:181} INFO - Started process (PID=87528) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:19:47,462] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:19:47,462] {logging_mixin.py:104} INFO - [2021-08-06 21:19:47,462] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:19:47,467] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:19:47,694] {logging_mixin.py:104} INFO - [2021-08-06 21:19:47,694] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:19:47,702] {logging_mixin.py:104} INFO - [2021-08-06 21:19:47,702] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:19:47,711] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.250 seconds
+[2021-08-06 21:21:08,676] {scheduler_job.py:181} INFO - Started process (PID=87630) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:21:08,678] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:21:08,678] {logging_mixin.py:104} INFO - [2021-08-06 21:21:08,678] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:21:08,685] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:21:08,689] {logging_mixin.py:104} INFO - [2021-08-06 21:21:08,689] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:21:08,713] {logging_mixin.py:104} INFO - [2021-08-06 21:21:08,712] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:21:08,720] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.045 seconds
+[2021-08-06 21:22:27,686] {scheduler_job.py:181} INFO - Started process (PID=87722) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:22:27,687] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:22:27,687] {logging_mixin.py:104} INFO - [2021-08-06 21:22:27,687] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:22:27,692] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:22:27,920] {logging_mixin.py:104} INFO - [2021-08-06 21:22:27,920] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:22:27,927] {logging_mixin.py:104} INFO - [2021-08-06 21:22:27,927] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:22:27,936] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.250 seconds
+[2021-08-06 21:23:46,542] {scheduler_job.py:181} INFO - Started process (PID=87820) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:23:46,543] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:23:46,543] {logging_mixin.py:104} INFO - [2021-08-06 21:23:46,543] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:23:46,548] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:23:46,552] {logging_mixin.py:104} INFO - [2021-08-06 21:23:46,552] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:23:46,576] {logging_mixin.py:104} INFO - [2021-08-06 21:23:46,576] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:23:46,583] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 21:25:06,950] {scheduler_job.py:181} INFO - Started process (PID=87912) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:25:06,950] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:25:06,951] {logging_mixin.py:104} INFO - [2021-08-06 21:25:06,950] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:25:06,957] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:25:07,182] {logging_mixin.py:104} INFO - [2021-08-06 21:25:07,182] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:25:07,189] {logging_mixin.py:104} INFO - [2021-08-06 21:25:07,189] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:25:07,199] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.250 seconds
+[2021-08-06 21:26:31,350] {scheduler_job.py:181} INFO - Started process (PID=88010) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:26:31,351] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:26:31,352] {logging_mixin.py:104} INFO - [2021-08-06 21:26:31,351] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:26:31,359] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:26:31,362] {logging_mixin.py:104} INFO - [2021-08-06 21:26:31,362] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:26:31,385] {logging_mixin.py:104} INFO - [2021-08-06 21:26:31,385] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:26:31,392] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.042 seconds
+[2021-08-06 21:27:57,027] {scheduler_job.py:181} INFO - Started process (PID=88108) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:27:57,029] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:27:57,030] {logging_mixin.py:104} INFO - [2021-08-06 21:27:57,030] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:27:57,038] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:27:57,269] {logging_mixin.py:104} INFO - [2021-08-06 21:27:57,269] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:27:57,276] {logging_mixin.py:104} INFO - [2021-08-06 21:27:57,276] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:27:57,287] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.261 seconds
+[2021-08-06 21:29:21,336] {scheduler_job.py:181} INFO - Started process (PID=88207) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:29:21,336] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:29:21,336] {logging_mixin.py:104} INFO - [2021-08-06 21:29:21,336] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:29:21,343] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:29:21,347] {logging_mixin.py:104} INFO - [2021-08-06 21:29:21,347] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:29:21,370] {logging_mixin.py:104} INFO - [2021-08-06 21:29:21,370] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:29:21,378] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.042 seconds
+[2021-08-06 21:30:43,540] {scheduler_job.py:181} INFO - Started process (PID=88301) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:30:43,540] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:30:43,540] {logging_mixin.py:104} INFO - [2021-08-06 21:30:43,540] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:30:43,547] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:30:43,774] {logging_mixin.py:104} INFO - [2021-08-06 21:30:43,773] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:30:43,781] {logging_mixin.py:104} INFO - [2021-08-06 21:30:43,781] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:30:43,792] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.252 seconds
+[2021-08-06 21:32:04,540] {scheduler_job.py:181} INFO - Started process (PID=88394) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:32:04,541] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:32:04,541] {logging_mixin.py:104} INFO - [2021-08-06 21:32:04,541] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:32:04,550] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:32:04,553] {logging_mixin.py:104} INFO - [2021-08-06 21:32:04,553] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:32:04,576] {logging_mixin.py:104} INFO - [2021-08-06 21:32:04,576] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:32:04,583] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.044 seconds
+[2021-08-06 21:33:03,021] {scheduler_job.py:181} INFO - Started process (PID=88459) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:33:03,021] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:33:03,021] {logging_mixin.py:104} INFO - [2021-08-06 21:33:03,021] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:33:03,027] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:33:03,253] {logging_mixin.py:104} INFO - [2021-08-06 21:33:03,253] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:33:03,260] {logging_mixin.py:104} INFO - [2021-08-06 21:33:03,260] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:33:03,269] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.249 seconds
+[2021-08-06 21:34:27,235] {scheduler_job.py:181} INFO - Started process (PID=88552) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:34:27,235] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:34:27,236] {logging_mixin.py:104} INFO - [2021-08-06 21:34:27,236] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:34:27,241] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:34:27,469] {logging_mixin.py:104} INFO - [2021-08-06 21:34:27,468] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:34:27,475] {logging_mixin.py:104} INFO - [2021-08-06 21:34:27,475] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:34:27,484] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.250 seconds
+[2021-08-06 21:35:49,024] {scheduler_job.py:181} INFO - Started process (PID=88645) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:35:49,024] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:35:49,024] {logging_mixin.py:104} INFO - [2021-08-06 21:35:49,024] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:35:49,030] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:35:49,034] {logging_mixin.py:104} INFO - [2021-08-06 21:35:49,034] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:35:49,057] {logging_mixin.py:104} INFO - [2021-08-06 21:35:49,056] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:35:49,064] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 21:37:10,248] {scheduler_job.py:181} INFO - Started process (PID=88739) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:37:10,248] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:37:10,249] {logging_mixin.py:104} INFO - [2021-08-06 21:37:10,249] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:37:10,258] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:37:10,485] {logging_mixin.py:104} INFO - [2021-08-06 21:37:10,485] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:37:10,492] {logging_mixin.py:104} INFO - [2021-08-06 21:37:10,492] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:37:10,502] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.255 seconds
+[2021-08-06 21:38:34,827] {scheduler_job.py:181} INFO - Started process (PID=88842) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:38:34,828] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:38:34,829] {logging_mixin.py:104} INFO - [2021-08-06 21:38:34,828] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:38:34,836] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:38:34,839] {logging_mixin.py:104} INFO - [2021-08-06 21:38:34,839] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:38:34,861] {logging_mixin.py:104} INFO - [2021-08-06 21:38:34,861] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:38:34,867] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 21:39:56,194] {scheduler_job.py:181} INFO - Started process (PID=88935) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:39:56,195] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:39:56,199] {logging_mixin.py:104} INFO - [2021-08-06 21:39:56,198] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:39:56,205] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:39:56,431] {logging_mixin.py:104} INFO - [2021-08-06 21:39:56,431] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:39:56,440] {logging_mixin.py:104} INFO - [2021-08-06 21:39:56,440] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:39:56,449] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.255 seconds
+[2021-08-06 21:41:20,126] {scheduler_job.py:181} INFO - Started process (PID=89030) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:41:20,126] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:41:20,127] {logging_mixin.py:104} INFO - [2021-08-06 21:41:20,127] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:41:20,132] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:41:20,135] {logging_mixin.py:104} INFO - [2021-08-06 21:41:20,135] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:41:20,159] {logging_mixin.py:104} INFO - [2021-08-06 21:41:20,159] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:41:20,166] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 21:42:40,262] {scheduler_job.py:181} INFO - Started process (PID=89122) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:42:40,262] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:42:40,263] {logging_mixin.py:104} INFO - [2021-08-06 21:42:40,263] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:42:40,269] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:42:40,492] {logging_mixin.py:104} INFO - [2021-08-06 21:42:40,491] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:42:40,497] {logging_mixin.py:104} INFO - [2021-08-06 21:42:40,497] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:42:40,504] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.242 seconds
+[2021-08-06 21:44:07,162] {scheduler_job.py:181} INFO - Started process (PID=89219) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:44:07,163] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:44:07,163] {logging_mixin.py:104} INFO - [2021-08-06 21:44:07,163] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:44:07,171] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:44:07,175] {logging_mixin.py:104} INFO - [2021-08-06 21:44:07,175] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:44:07,200] {logging_mixin.py:104} INFO - [2021-08-06 21:44:07,200] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:44:07,206] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.046 seconds
+[2021-08-06 21:45:32,083] {scheduler_job.py:181} INFO - Started process (PID=89313) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:45:32,083] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:45:32,084] {logging_mixin.py:104} INFO - [2021-08-06 21:45:32,084] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:45:32,089] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:45:32,313] {logging_mixin.py:104} INFO - [2021-08-06 21:45:32,313] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:45:32,321] {logging_mixin.py:104} INFO - [2021-08-06 21:45:32,321] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:45:32,331] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.248 seconds
+[2021-08-06 21:46:55,923] {scheduler_job.py:181} INFO - Started process (PID=89409) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:46:55,924] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:46:55,924] {logging_mixin.py:104} INFO - [2021-08-06 21:46:55,924] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:46:55,933] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:46:55,937] {logging_mixin.py:104} INFO - [2021-08-06 21:46:55,937] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:46:55,959] {logging_mixin.py:104} INFO - [2021-08-06 21:46:55,959] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:46:55,967] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.045 seconds
+[2021-08-06 21:48:16,522] {scheduler_job.py:181} INFO - Started process (PID=89506) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:48:16,523] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:48:16,523] {logging_mixin.py:104} INFO - [2021-08-06 21:48:16,523] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:48:16,553] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:48:16,785] {logging_mixin.py:104} INFO - [2021-08-06 21:48:16,785] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:48:16,792] {logging_mixin.py:104} INFO - [2021-08-06 21:48:16,792] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:48:16,800] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.279 seconds
+[2021-08-06 21:49:38,272] {scheduler_job.py:181} INFO - Started process (PID=89599) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:49:38,272] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:49:38,272] {logging_mixin.py:104} INFO - [2021-08-06 21:49:38,272] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:49:38,278] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:49:38,281] {logging_mixin.py:104} INFO - [2021-08-06 21:49:38,281] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:49:38,308] {logging_mixin.py:104} INFO - [2021-08-06 21:49:38,308] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:49:38,315] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.044 seconds
+[2021-08-06 21:50:59,101] {scheduler_job.py:181} INFO - Started process (PID=89690) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:50:59,102] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:50:59,102] {logging_mixin.py:104} INFO - [2021-08-06 21:50:59,102] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:50:59,107] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:50:59,330] {logging_mixin.py:104} INFO - [2021-08-06 21:50:59,330] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:50:59,337] {logging_mixin.py:104} INFO - [2021-08-06 21:50:59,337] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:50:59,347] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.247 seconds
+[2021-08-06 21:52:20,809] {scheduler_job.py:181} INFO - Started process (PID=89792) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:52:20,809] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:52:20,810] {logging_mixin.py:104} INFO - [2021-08-06 21:52:20,810] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:52:20,815] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:52:20,818] {logging_mixin.py:104} INFO - [2021-08-06 21:52:20,818] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:52:20,841] {logging_mixin.py:104} INFO - [2021-08-06 21:52:20,841] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:52:20,849] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 21:53:41,818] {scheduler_job.py:181} INFO - Started process (PID=89890) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:53:41,821] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:53:41,821] {logging_mixin.py:104} INFO - [2021-08-06 21:53:41,821] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:53:41,831] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:53:42,065] {logging_mixin.py:104} INFO - [2021-08-06 21:53:42,065] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:53:42,072] {logging_mixin.py:104} INFO - [2021-08-06 21:53:42,072] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:53:42,080] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.262 seconds
+[2021-08-06 21:54:40,049] {scheduler_job.py:181} INFO - Started process (PID=89957) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:54:40,049] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:54:40,050] {logging_mixin.py:104} INFO - [2021-08-06 21:54:40,050] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:54:40,055] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:54:40,079] {logging_mixin.py:104} INFO - [2021-08-06 21:54:40,079] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:54:40,085] {logging_mixin.py:104} INFO - [2021-08-06 21:54:40,085] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:54:40,092] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.044 seconds
+[2021-08-06 21:56:04,846] {scheduler_job.py:181} INFO - Started process (PID=90055) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:56:04,847] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:56:04,848] {logging_mixin.py:104} INFO - [2021-08-06 21:56:04,848] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:56:04,855] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:56:05,287] {logging_mixin.py:104} INFO - [2021-08-06 21:56:05,287] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:56:05,294] {logging_mixin.py:104} INFO - [2021-08-06 21:56:05,294] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:56:05,301] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.455 seconds
+[2021-08-06 21:57:29,075] {scheduler_job.py:181} INFO - Started process (PID=90150) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:57:29,076] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:57:29,076] {logging_mixin.py:104} INFO - [2021-08-06 21:57:29,076] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:57:29,082] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:57:29,307] {logging_mixin.py:104} INFO - [2021-08-06 21:57:29,307] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:57:29,314] {logging_mixin.py:104} INFO - [2021-08-06 21:57:29,314] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:57:29,323] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.248 seconds
+[2021-08-06 21:58:50,767] {scheduler_job.py:181} INFO - Started process (PID=90244) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:58:50,767] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 21:58:50,768] {logging_mixin.py:104} INFO - [2021-08-06 21:58:50,768] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:58:50,773] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 21:58:50,777] {logging_mixin.py:104} INFO - [2021-08-06 21:58:50,777] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 21:58:50,803] {logging_mixin.py:104} INFO - [2021-08-06 21:58:50,803] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 21:58:50,810] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.043 seconds
+[2021-08-06 22:00:12,686] {scheduler_job.py:181} INFO - Started process (PID=90342) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:00:12,688] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:00:12,689] {logging_mixin.py:104} INFO - [2021-08-06 22:00:12,689] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:00:12,700] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:00:12,933] {logging_mixin.py:104} INFO - [2021-08-06 22:00:12,933] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:00:12,942] {logging_mixin.py:104} INFO - [2021-08-06 22:00:12,942] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:00:12,951] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.265 seconds
+[2021-08-06 22:01:34,070] {scheduler_job.py:181} INFO - Started process (PID=90445) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:01:34,071] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:01:34,072] {logging_mixin.py:104} INFO - [2021-08-06 22:01:34,071] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:01:34,079] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:01:34,082] {logging_mixin.py:104} INFO - [2021-08-06 22:01:34,082] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:01:34,105] {logging_mixin.py:104} INFO - [2021-08-06 22:01:34,105] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:01:34,111] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.042 seconds
+[2021-08-06 22:02:33,049] {scheduler_job.py:181} INFO - Started process (PID=90513) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:02:33,050] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:02:33,051] {logging_mixin.py:104} INFO - [2021-08-06 22:02:33,051] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:02:33,060] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:02:33,294] {logging_mixin.py:104} INFO - [2021-08-06 22:02:33,294] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:02:33,301] {logging_mixin.py:104} INFO - [2021-08-06 22:02:33,301] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:02:33,310] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.262 seconds
+[2021-08-06 22:03:55,067] {scheduler_job.py:181} INFO - Started process (PID=90608) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:03:55,067] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:03:55,067] {logging_mixin.py:104} INFO - [2021-08-06 22:03:55,067] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:03:55,072] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:03:55,301] {logging_mixin.py:104} INFO - [2021-08-06 22:03:55,300] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:03:55,307] {logging_mixin.py:104} INFO - [2021-08-06 22:03:55,307] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:03:55,316] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.250 seconds
+[2021-08-06 22:05:15,989] {scheduler_job.py:181} INFO - Started process (PID=90700) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:05:15,990] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:05:15,990] {logging_mixin.py:104} INFO - [2021-08-06 22:05:15,990] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:05:15,998] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:05:16,003] {logging_mixin.py:104} INFO - [2021-08-06 22:05:16,002] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:05:16,025] {logging_mixin.py:104} INFO - [2021-08-06 22:05:16,025] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:05:16,031] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.043 seconds
+[2021-08-06 22:06:37,185] {scheduler_job.py:181} INFO - Started process (PID=90795) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:06:37,185] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:06:37,185] {logging_mixin.py:104} INFO - [2021-08-06 22:06:37,185] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:06:37,192] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:06:37,414] {logging_mixin.py:104} INFO - [2021-08-06 22:06:37,414] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:06:37,421] {logging_mixin.py:104} INFO - [2021-08-06 22:06:37,421] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:06:37,430] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.246 seconds
+[2021-08-06 22:08:00,043] {scheduler_job.py:181} INFO - Started process (PID=90887) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:08:00,043] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:08:00,043] {logging_mixin.py:104} INFO - [2021-08-06 22:08:00,043] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:08:00,049] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:08:00,052] {logging_mixin.py:104} INFO - [2021-08-06 22:08:00,052] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:08:00,075] {logging_mixin.py:104} INFO - [2021-08-06 22:08:00,075] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:08:00,081] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.039 seconds
+[2021-08-06 22:09:21,080] {scheduler_job.py:181} INFO - Started process (PID=90982) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:09:21,080] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:09:21,081] {logging_mixin.py:104} INFO - [2021-08-06 22:09:21,081] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:09:21,086] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:09:21,319] {logging_mixin.py:104} INFO - [2021-08-06 22:09:21,319] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:09:21,326] {logging_mixin.py:104} INFO - [2021-08-06 22:09:21,326] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:09:21,336] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.256 seconds
+[2021-08-06 22:10:36,429] {scheduler_job.py:181} INFO - Started process (PID=91072) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:10:36,429] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:10:36,429] {logging_mixin.py:104} INFO - [2021-08-06 22:10:36,429] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:10:36,436] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:10:36,440] {logging_mixin.py:104} INFO - [2021-08-06 22:10:36,439] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:10:36,462] {logging_mixin.py:104} INFO - [2021-08-06 22:10:36,462] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:10:36,470] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.042 seconds
+[2021-08-06 22:11:56,813] {scheduler_job.py:181} INFO - Started process (PID=91161) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:11:56,813] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:11:56,813] {logging_mixin.py:104} INFO - [2021-08-06 22:11:56,813] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:11:56,818] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:11:57,043] {logging_mixin.py:104} INFO - [2021-08-06 22:11:57,043] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:11:57,051] {logging_mixin.py:104} INFO - [2021-08-06 22:11:57,051] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:11:57,061] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.249 seconds
+[2021-08-06 22:13:19,481] {scheduler_job.py:181} INFO - Started process (PID=91257) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:13:19,481] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:13:19,481] {logging_mixin.py:104} INFO - [2021-08-06 22:13:19,481] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:13:19,487] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:13:19,490] {logging_mixin.py:104} INFO - [2021-08-06 22:13:19,490] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:13:19,514] {logging_mixin.py:104} INFO - [2021-08-06 22:13:19,513] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:13:19,520] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 22:14:41,492] {scheduler_job.py:181} INFO - Started process (PID=91352) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:14:41,493] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:14:41,493] {logging_mixin.py:104} INFO - [2021-08-06 22:14:41,493] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:14:41,501] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:14:41,737] {logging_mixin.py:104} INFO - [2021-08-06 22:14:41,736] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:14:41,743] {logging_mixin.py:104} INFO - [2021-08-06 22:14:41,743] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:14:41,753] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.262 seconds
+[2021-08-06 22:16:00,967] {scheduler_job.py:181} INFO - Started process (PID=91445) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:16:00,967] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:16:00,968] {logging_mixin.py:104} INFO - [2021-08-06 22:16:00,968] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:16:00,973] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:16:00,976] {logging_mixin.py:104} INFO - [2021-08-06 22:16:00,976] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:16:01,001] {logging_mixin.py:104} INFO - [2021-08-06 22:16:01,000] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:16:01,008] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 22:17:25,768] {scheduler_job.py:181} INFO - Started process (PID=91540) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:17:25,769] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:17:25,769] {logging_mixin.py:104} INFO - [2021-08-06 22:17:25,769] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:17:25,774] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:17:26,018] {logging_mixin.py:104} INFO - [2021-08-06 22:17:26,018] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:17:26,025] {logging_mixin.py:104} INFO - [2021-08-06 22:17:26,025] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:17:26,034] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.266 seconds
+[2021-08-06 22:18:46,973] {scheduler_job.py:181} INFO - Started process (PID=91635) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:18:46,973] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:18:46,973] {logging_mixin.py:104} INFO - [2021-08-06 22:18:46,973] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:18:46,979] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:18:46,984] {logging_mixin.py:104} INFO - [2021-08-06 22:18:46,984] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:18:47,006] {logging_mixin.py:104} INFO - [2021-08-06 22:18:47,006] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:18:47,014] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.042 seconds
+[2021-08-06 22:20:09,858] {scheduler_job.py:181} INFO - Started process (PID=91740) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:20:09,859] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:20:09,859] {logging_mixin.py:104} INFO - [2021-08-06 22:20:09,859] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:20:09,867] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:20:10,090] {logging_mixin.py:104} INFO - [2021-08-06 22:20:10,089] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:20:10,096] {logging_mixin.py:104} INFO - [2021-08-06 22:20:10,096] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:20:10,105] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.248 seconds
+[2021-08-06 22:21:34,311] {scheduler_job.py:181} INFO - Started process (PID=91841) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:21:34,312] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:21:34,313] {logging_mixin.py:104} INFO - [2021-08-06 22:21:34,313] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:21:34,320] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:21:34,324] {logging_mixin.py:104} INFO - [2021-08-06 22:21:34,324] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:21:34,346] {logging_mixin.py:104} INFO - [2021-08-06 22:21:34,346] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:21:34,352] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.042 seconds
+[2021-08-06 22:22:33,118] {scheduler_job.py:181} INFO - Started process (PID=91908) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:22:33,120] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:22:33,120] {logging_mixin.py:104} INFO - [2021-08-06 22:22:33,120] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:22:33,127] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:22:33,353] {logging_mixin.py:104} INFO - [2021-08-06 22:22:33,353] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:22:33,359] {logging_mixin.py:104} INFO - [2021-08-06 22:22:33,359] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:22:33,371] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.254 seconds
+[2021-08-06 22:23:55,948] {scheduler_job.py:181} INFO - Started process (PID=92003) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:23:55,948] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:23:55,949] {logging_mixin.py:104} INFO - [2021-08-06 22:23:55,949] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:23:55,955] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:23:56,182] {logging_mixin.py:104} INFO - [2021-08-06 22:23:56,182] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:23:56,189] {logging_mixin.py:104} INFO - [2021-08-06 22:23:56,188] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:23:56,198] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.251 seconds
+[2021-08-06 22:25:14,206] {scheduler_job.py:181} INFO - Started process (PID=92096) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:25:14,207] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:25:14,207] {logging_mixin.py:104} INFO - [2021-08-06 22:25:14,207] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:25:14,212] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:25:14,216] {logging_mixin.py:104} INFO - [2021-08-06 22:25:14,215] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:25:14,240] {logging_mixin.py:104} INFO - [2021-08-06 22:25:14,240] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:25:14,247] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 22:26:35,077] {scheduler_job.py:181} INFO - Started process (PID=92187) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:26:35,077] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:26:35,078] {logging_mixin.py:104} INFO - [2021-08-06 22:26:35,078] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:26:35,083] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:26:35,314] {logging_mixin.py:104} INFO - [2021-08-06 22:26:35,314] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:26:35,321] {logging_mixin.py:104} INFO - [2021-08-06 22:26:35,321] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:26:35,331] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.254 seconds
+[2021-08-06 22:27:58,149] {scheduler_job.py:181} INFO - Started process (PID=92281) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:27:58,150] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:27:58,150] {logging_mixin.py:104} INFO - [2021-08-06 22:27:58,150] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:27:58,161] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:27:58,165] {logging_mixin.py:104} INFO - [2021-08-06 22:27:58,165] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:27:58,191] {logging_mixin.py:104} INFO - [2021-08-06 22:27:58,191] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:27:58,199] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.050 seconds
+[2021-08-06 22:29:20,112] {scheduler_job.py:181} INFO - Started process (PID=92381) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:29:20,113] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:29:20,113] {logging_mixin.py:104} INFO - [2021-08-06 22:29:20,113] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:29:20,121] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:29:20,352] {logging_mixin.py:104} INFO - [2021-08-06 22:29:20,351] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:29:20,358] {logging_mixin.py:104} INFO - [2021-08-06 22:29:20,358] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:29:20,366] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.255 seconds
+[2021-08-06 22:30:41,299] {scheduler_job.py:181} INFO - Started process (PID=92475) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:30:41,299] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:30:41,300] {logging_mixin.py:104} INFO - [2021-08-06 22:30:41,300] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:30:41,305] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:30:41,308] {logging_mixin.py:104} INFO - [2021-08-06 22:30:41,308] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:30:41,333] {logging_mixin.py:104} INFO - [2021-08-06 22:30:41,333] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:30:41,339] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 22:32:04,770] {scheduler_job.py:181} INFO - Started process (PID=92580) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:32:04,771] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:32:04,771] {logging_mixin.py:104} INFO - [2021-08-06 22:32:04,771] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:32:04,780] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:32:05,004] {logging_mixin.py:104} INFO - [2021-08-06 22:32:05,004] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:32:05,011] {logging_mixin.py:104} INFO - [2021-08-06 22:32:05,011] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:32:05,019] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.250 seconds
+[2021-08-06 22:33:25,999] {scheduler_job.py:181} INFO - Started process (PID=92678) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:33:26,001] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:33:26,002] {logging_mixin.py:104} INFO - [2021-08-06 22:33:26,002] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:33:26,011] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:33:26,015] {logging_mixin.py:104} INFO - [2021-08-06 22:33:26,015] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:33:26,040] {logging_mixin.py:104} INFO - [2021-08-06 22:33:26,040] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:33:26,046] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.047 seconds
+[2021-08-06 22:34:47,648] {scheduler_job.py:181} INFO - Started process (PID=92771) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:34:47,650] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:34:47,650] {logging_mixin.py:104} INFO - [2021-08-06 22:34:47,650] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:34:47,657] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:34:47,883] {logging_mixin.py:104} INFO - [2021-08-06 22:34:47,883] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:34:47,890] {logging_mixin.py:104} INFO - [2021-08-06 22:34:47,890] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:34:47,900] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.252 seconds
+[2021-08-06 22:36:08,788] {scheduler_job.py:181} INFO - Started process (PID=92870) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:36:08,788] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:36:08,788] {logging_mixin.py:104} INFO - [2021-08-06 22:36:08,788] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:36:08,793] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:36:08,797] {logging_mixin.py:104} INFO - [2021-08-06 22:36:08,796] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:36:08,821] {logging_mixin.py:104} INFO - [2021-08-06 22:36:08,821] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:36:08,829] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.042 seconds
+[2021-08-06 22:37:32,013] {scheduler_job.py:181} INFO - Started process (PID=92963) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:37:32,014] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:37:32,014] {logging_mixin.py:104} INFO - [2021-08-06 22:37:32,014] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:37:32,022] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:37:32,279] {logging_mixin.py:104} INFO - [2021-08-06 22:37:32,279] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:37:32,290] {logging_mixin.py:104} INFO - [2021-08-06 22:37:32,290] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:37:32,303] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.291 seconds
+[2021-08-06 22:38:56,363] {scheduler_job.py:181} INFO - Started process (PID=93079) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:38:56,365] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:38:56,365] {logging_mixin.py:104} INFO - [2021-08-06 22:38:56,365] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:38:56,376] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:38:56,380] {logging_mixin.py:104} INFO - [2021-08-06 22:38:56,380] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:38:56,406] {logging_mixin.py:104} INFO - [2021-08-06 22:38:56,406] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:38:56,412] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.049 seconds
+[2021-08-06 22:40:19,266] {scheduler_job.py:181} INFO - Started process (PID=93174) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:40:19,266] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:40:19,267] {logging_mixin.py:104} INFO - [2021-08-06 22:40:19,267] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:40:19,272] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:40:19,497] {logging_mixin.py:104} INFO - [2021-08-06 22:40:19,496] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:40:19,504] {logging_mixin.py:104} INFO - [2021-08-06 22:40:19,503] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:40:19,515] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.250 seconds
+[2021-08-06 22:41:38,719] {scheduler_job.py:181} INFO - Started process (PID=93267) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:41:38,719] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:41:38,720] {logging_mixin.py:104} INFO - [2021-08-06 22:41:38,720] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:41:38,725] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:41:38,730] {logging_mixin.py:104} INFO - [2021-08-06 22:41:38,729] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:41:38,752] {logging_mixin.py:104} INFO - [2021-08-06 22:41:38,752] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:41:38,758] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 22:43:00,880] {scheduler_job.py:181} INFO - Started process (PID=93361) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:43:00,880] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:43:00,880] {logging_mixin.py:104} INFO - [2021-08-06 22:43:00,880] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:43:00,885] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:43:01,109] {logging_mixin.py:104} INFO - [2021-08-06 22:43:01,109] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:43:01,116] {logging_mixin.py:104} INFO - [2021-08-06 22:43:01,116] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:43:01,125] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.246 seconds
+[2021-08-06 22:44:26,433] {scheduler_job.py:181} INFO - Started process (PID=93472) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:44:26,434] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:44:26,435] {logging_mixin.py:104} INFO - [2021-08-06 22:44:26,435] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:44:26,440] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:44:26,444] {logging_mixin.py:104} INFO - [2021-08-06 22:44:26,444] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:44:26,468] {logging_mixin.py:104} INFO - [2021-08-06 22:44:26,467] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:44:26,474] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 22:45:23,168] {scheduler_job.py:181} INFO - Started process (PID=93540) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:45:23,170] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:45:23,170] {logging_mixin.py:104} INFO - [2021-08-06 22:45:23,170] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:45:23,178] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:45:23,407] {logging_mixin.py:104} INFO - [2021-08-06 22:45:23,407] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:45:23,413] {logging_mixin.py:104} INFO - [2021-08-06 22:45:23,413] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:45:23,423] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.255 seconds
+[2021-08-06 22:46:21,721] {scheduler_job.py:181} INFO - Started process (PID=93607) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:46:21,721] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:46:21,722] {logging_mixin.py:104} INFO - [2021-08-06 22:46:21,722] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:46:21,727] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:46:21,730] {logging_mixin.py:104} INFO - [2021-08-06 22:46:21,730] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:46:21,755] {logging_mixin.py:104} INFO - [2021-08-06 22:46:21,755] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:46:21,762] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 22:47:43,928] {scheduler_job.py:181} INFO - Started process (PID=93703) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:47:43,929] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:47:43,929] {logging_mixin.py:104} INFO - [2021-08-06 22:47:43,929] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:47:43,934] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:47:44,162] {logging_mixin.py:104} INFO - [2021-08-06 22:47:44,162] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:47:44,168] {logging_mixin.py:104} INFO - [2021-08-06 22:47:44,168] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:47:44,177] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.249 seconds
+[2021-08-06 22:49:06,313] {scheduler_job.py:181} INFO - Started process (PID=93798) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:49:06,313] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:49:06,313] {logging_mixin.py:104} INFO - [2021-08-06 22:49:06,313] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:49:06,319] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:49:06,323] {logging_mixin.py:104} INFO - [2021-08-06 22:49:06,323] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:49:06,346] {logging_mixin.py:104} INFO - [2021-08-06 22:49:06,346] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:49:06,354] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.042 seconds
+[2021-08-06 22:50:05,741] {scheduler_job.py:181} INFO - Started process (PID=93864) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:50:05,742] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:50:05,742] {logging_mixin.py:104} INFO - [2021-08-06 22:50:05,742] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:50:05,750] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:50:06,242] {logging_mixin.py:104} INFO - [2021-08-06 22:50:06,241] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:50:06,249] {logging_mixin.py:104} INFO - [2021-08-06 22:50:06,249] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:50:06,258] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.517 seconds
+[2021-08-06 22:51:27,163] {scheduler_job.py:181} INFO - Started process (PID=93954) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:51:27,163] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:51:27,163] {logging_mixin.py:104} INFO - [2021-08-06 22:51:27,163] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:51:27,171] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:51:27,398] {logging_mixin.py:104} INFO - [2021-08-06 22:51:27,398] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:51:27,404] {logging_mixin.py:104} INFO - [2021-08-06 22:51:27,404] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:51:27,413] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.251 seconds
+[2021-08-06 22:52:49,231] {scheduler_job.py:181} INFO - Started process (PID=94047) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:52:49,232] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:52:49,233] {logging_mixin.py:104} INFO - [2021-08-06 22:52:49,232] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:52:49,241] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:52:49,244] {logging_mixin.py:104} INFO - [2021-08-06 22:52:49,244] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:52:49,266] {logging_mixin.py:104} INFO - [2021-08-06 22:52:49,266] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:52:49,272] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.042 seconds
+[2021-08-06 22:54:15,991] {scheduler_job.py:181} INFO - Started process (PID=94161) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:54:15,992] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:54:15,993] {logging_mixin.py:104} INFO - [2021-08-06 22:54:15,993] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:54:15,998] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:54:16,236] {logging_mixin.py:104} INFO - [2021-08-06 22:54:16,236] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:54:16,246] {logging_mixin.py:104} INFO - [2021-08-06 22:54:16,246] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:54:16,256] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.265 seconds
+[2021-08-06 22:55:36,029] {scheduler_job.py:181} INFO - Started process (PID=94269) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:55:36,029] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:55:36,030] {logging_mixin.py:104} INFO - [2021-08-06 22:55:36,030] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:55:36,035] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:55:36,040] {logging_mixin.py:104} INFO - [2021-08-06 22:55:36,040] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:55:36,062] {logging_mixin.py:104} INFO - [2021-08-06 22:55:36,062] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:55:36,069] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 22:56:58,222] {scheduler_job.py:181} INFO - Started process (PID=94359) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:56:58,222] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:56:58,222] {logging_mixin.py:104} INFO - [2021-08-06 22:56:58,222] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:56:58,228] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:56:58,456] {logging_mixin.py:104} INFO - [2021-08-06 22:56:58,456] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:56:58,463] {logging_mixin.py:104} INFO - [2021-08-06 22:56:58,463] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:56:58,473] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.252 seconds
+[2021-08-06 22:58:22,322] {scheduler_job.py:181} INFO - Started process (PID=94466) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:58:22,324] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:58:22,324] {logging_mixin.py:104} INFO - [2021-08-06 22:58:22,324] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:58:22,332] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:58:22,336] {logging_mixin.py:104} INFO - [2021-08-06 22:58:22,336] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:58:22,359] {logging_mixin.py:104} INFO - [2021-08-06 22:58:22,359] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:58:22,365] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.043 seconds
+[2021-08-06 22:59:40,228] {scheduler_job.py:181} INFO - Started process (PID=94558) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:59:40,229] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 22:59:40,229] {logging_mixin.py:104} INFO - [2021-08-06 22:59:40,229] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:59:40,236] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 22:59:40,464] {logging_mixin.py:104} INFO - [2021-08-06 22:59:40,463] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 22:59:40,471] {logging_mixin.py:104} INFO - [2021-08-06 22:59:40,471] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 22:59:40,481] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.253 seconds
+[2021-08-06 23:01:00,131] {scheduler_job.py:181} INFO - Started process (PID=94649) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:01:00,131] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:01:00,131] {logging_mixin.py:104} INFO - [2021-08-06 23:01:00,131] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:01:00,137] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:01:00,142] {logging_mixin.py:104} INFO - [2021-08-06 23:01:00,142] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:01:00,164] {logging_mixin.py:104} INFO - [2021-08-06 23:01:00,164] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:01:00,173] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.043 seconds
+[2021-08-06 23:02:19,560] {scheduler_job.py:181} INFO - Started process (PID=94740) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:02:19,561] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:02:19,561] {logging_mixin.py:104} INFO - [2021-08-06 23:02:19,561] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:02:19,567] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:02:19,795] {logging_mixin.py:104} INFO - [2021-08-06 23:02:19,795] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:02:19,803] {logging_mixin.py:104} INFO - [2021-08-06 23:02:19,803] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:02:19,814] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.254 seconds
+[2021-08-06 23:03:41,785] {scheduler_job.py:181} INFO - Started process (PID=94833) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:03:41,786] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:03:41,786] {logging_mixin.py:104} INFO - [2021-08-06 23:03:41,786] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:03:41,791] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:03:41,795] {logging_mixin.py:104} INFO - [2021-08-06 23:03:41,795] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:03:41,818] {logging_mixin.py:104} INFO - [2021-08-06 23:03:41,817] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:03:41,825] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 23:05:01,220] {scheduler_job.py:181} INFO - Started process (PID=94928) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:05:01,221] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:05:01,221] {logging_mixin.py:104} INFO - [2021-08-06 23:05:01,221] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:05:01,226] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:05:01,454] {logging_mixin.py:104} INFO - [2021-08-06 23:05:01,454] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:05:01,461] {logging_mixin.py:104} INFO - [2021-08-06 23:05:01,461] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:05:01,470] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.251 seconds
+[2021-08-06 23:06:19,482] {scheduler_job.py:181} INFO - Started process (PID=95017) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:06:19,483] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:06:19,483] {logging_mixin.py:104} INFO - [2021-08-06 23:06:19,483] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:06:19,491] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:06:19,494] {logging_mixin.py:104} INFO - [2021-08-06 23:06:19,494] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:06:19,516] {logging_mixin.py:104} INFO - [2021-08-06 23:06:19,516] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:06:19,523] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.042 seconds
+[2021-08-06 23:07:43,243] {scheduler_job.py:181} INFO - Started process (PID=95112) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:07:43,243] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:07:43,244] {logging_mixin.py:104} INFO - [2021-08-06 23:07:43,244] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:07:43,251] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:07:43,479] {logging_mixin.py:104} INFO - [2021-08-06 23:07:43,478] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:07:43,486] {logging_mixin.py:104} INFO - [2021-08-06 23:07:43,486] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:07:43,496] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.253 seconds
+[2021-08-06 23:09:06,720] {scheduler_job.py:181} INFO - Started process (PID=95210) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:09:06,720] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:09:06,721] {logging_mixin.py:104} INFO - [2021-08-06 23:09:06,721] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:09:06,726] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:09:06,729] {logging_mixin.py:104} INFO - [2021-08-06 23:09:06,729] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:09:06,753] {logging_mixin.py:104} INFO - [2021-08-06 23:09:06,753] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:09:06,760] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 23:10:27,865] {scheduler_job.py:181} INFO - Started process (PID=95302) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:10:27,867] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:10:27,867] {logging_mixin.py:104} INFO - [2021-08-06 23:10:27,867] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:10:27,874] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:10:28,100] {logging_mixin.py:104} INFO - [2021-08-06 23:10:28,099] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:10:28,106] {logging_mixin.py:104} INFO - [2021-08-06 23:10:28,106] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:10:28,117] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.252 seconds
+[2021-08-06 23:11:51,750] {scheduler_job.py:181} INFO - Started process (PID=95399) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:11:51,751] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:11:51,751] {logging_mixin.py:104} INFO - [2021-08-06 23:11:51,751] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:11:51,756] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:11:51,760] {logging_mixin.py:104} INFO - [2021-08-06 23:11:51,759] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:11:51,784] {logging_mixin.py:104} INFO - [2021-08-06 23:11:51,784] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:11:51,790] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 23:13:14,339] {scheduler_job.py:181} INFO - Started process (PID=95491) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:13:14,340] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:13:14,341] {logging_mixin.py:104} INFO - [2021-08-06 23:13:14,341] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:13:14,350] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:13:14,573] {logging_mixin.py:104} INFO - [2021-08-06 23:13:14,573] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:13:14,580] {logging_mixin.py:104} INFO - [2021-08-06 23:13:14,580] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:13:14,590] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.251 seconds
+[2021-08-06 23:14:34,044] {scheduler_job.py:181} INFO - Started process (PID=95589) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:14:34,045] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:14:34,045] {logging_mixin.py:104} INFO - [2021-08-06 23:14:34,045] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:14:34,050] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:14:34,055] {logging_mixin.py:104} INFO - [2021-08-06 23:14:34,055] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:14:34,077] {logging_mixin.py:104} INFO - [2021-08-06 23:14:34,077] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:14:34,084] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.040 seconds
+[2021-08-06 23:15:54,673] {scheduler_job.py:181} INFO - Started process (PID=95681) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:15:54,674] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:15:54,674] {logging_mixin.py:104} INFO - [2021-08-06 23:15:54,674] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:15:54,684] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:15:54,909] {logging_mixin.py:104} INFO - [2021-08-06 23:15:54,909] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:15:54,915] {logging_mixin.py:104} INFO - [2021-08-06 23:15:54,915] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:15:54,924] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.252 seconds
+[2021-08-06 23:17:18,455] {scheduler_job.py:181} INFO - Started process (PID=95780) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:17:18,455] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:17:18,456] {logging_mixin.py:104} INFO - [2021-08-06 23:17:18,456] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:17:18,462] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:17:18,466] {logging_mixin.py:104} INFO - [2021-08-06 23:17:18,466] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:17:18,489] {logging_mixin.py:104} INFO - [2021-08-06 23:17:18,488] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:17:18,497] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.042 seconds
+[2021-08-06 23:18:41,993] {scheduler_job.py:181} INFO - Started process (PID=95874) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:18:41,993] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:18:41,993] {logging_mixin.py:104} INFO - [2021-08-06 23:18:41,993] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:18:41,998] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:18:42,228] {logging_mixin.py:104} INFO - [2021-08-06 23:18:42,228] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:18:42,234] {logging_mixin.py:104} INFO - [2021-08-06 23:18:42,234] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:18:42,244] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.252 seconds
+[2021-08-06 23:20:02,944] {scheduler_job.py:181} INFO - Started process (PID=95970) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:20:02,945] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:20:02,945] {logging_mixin.py:104} INFO - [2021-08-06 23:20:02,945] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:20:02,950] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:20:02,954] {logging_mixin.py:104} INFO - [2021-08-06 23:20:02,953] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:20:02,979] {logging_mixin.py:104} INFO - [2021-08-06 23:20:02,979] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:20:02,986] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.043 seconds
+[2021-08-06 23:21:25,544] {scheduler_job.py:181} INFO - Started process (PID=96061) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:21:25,544] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:21:25,544] {logging_mixin.py:104} INFO - [2021-08-06 23:21:25,544] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:21:25,550] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:21:25,774] {logging_mixin.py:104} INFO - [2021-08-06 23:21:25,774] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:21:25,781] {logging_mixin.py:104} INFO - [2021-08-06 23:21:25,781] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:21:25,790] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.247 seconds
+[2021-08-06 23:22:25,066] {scheduler_job.py:181} INFO - Started process (PID=96126) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:22:25,068] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:22:25,069] {logging_mixin.py:104} INFO - [2021-08-06 23:22:25,068] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:22:25,077] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:22:25,103] {logging_mixin.py:104} INFO - [2021-08-06 23:22:25,103] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:22:25,108] {logging_mixin.py:104} INFO - [2021-08-06 23:22:25,108] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:22:25,115] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.049 seconds
+[2021-08-06 23:23:45,611] {scheduler_job.py:181} INFO - Started process (PID=96225) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:23:45,613] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:23:45,613] {logging_mixin.py:104} INFO - [2021-08-06 23:23:45,613] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:23:45,621] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:23:45,846] {logging_mixin.py:104} INFO - [2021-08-06 23:23:45,846] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:23:45,852] {logging_mixin.py:104} INFO - [2021-08-06 23:23:45,852] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:23:45,862] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.252 seconds
+[2021-08-06 23:25:04,228] {scheduler_job.py:181} INFO - Started process (PID=96315) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:25:04,230] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:25:04,231] {logging_mixin.py:104} INFO - [2021-08-06 23:25:04,231] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:25:04,243] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:25:04,477] {logging_mixin.py:104} INFO - [2021-08-06 23:25:04,476] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:25:04,485] {logging_mixin.py:104} INFO - [2021-08-06 23:25:04,484] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:25:04,494] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.267 seconds
+[2021-08-06 23:26:28,252] {scheduler_job.py:181} INFO - Started process (PID=96411) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:26:28,254] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:26:28,254] {logging_mixin.py:104} INFO - [2021-08-06 23:26:28,254] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:26:28,262] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:26:28,265] {logging_mixin.py:104} INFO - [2021-08-06 23:26:28,265] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:26:28,291] {logging_mixin.py:104} INFO - [2021-08-06 23:26:28,291] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:26:28,296] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.045 seconds
+[2021-08-06 23:27:50,974] {scheduler_job.py:181} INFO - Started process (PID=96506) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:27:50,974] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:27:50,975] {logging_mixin.py:104} INFO - [2021-08-06 23:27:50,975] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:27:50,980] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:27:51,203] {logging_mixin.py:104} INFO - [2021-08-06 23:27:51,203] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:27:51,210] {logging_mixin.py:104} INFO - [2021-08-06 23:27:51,210] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:27:51,218] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.245 seconds
+[2021-08-06 23:29:11,844] {scheduler_job.py:181} INFO - Started process (PID=96607) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:29:11,845] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:29:11,846] {logging_mixin.py:104} INFO - [2021-08-06 23:29:11,846] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:29:11,853] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:29:11,857] {logging_mixin.py:104} INFO - [2021-08-06 23:29:11,856] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:29:11,879] {logging_mixin.py:104} INFO - [2021-08-06 23:29:11,879] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:29:11,887] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.043 seconds
+[2021-08-06 23:30:28,868] {scheduler_job.py:181} INFO - Started process (PID=96694) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:30:28,870] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:30:28,870] {logging_mixin.py:104} INFO - [2021-08-06 23:30:28,870] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:30:28,878] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:30:29,104] {logging_mixin.py:104} INFO - [2021-08-06 23:30:29,104] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:30:29,111] {logging_mixin.py:104} INFO - [2021-08-06 23:30:29,110] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:30:29,120] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.252 seconds
+[2021-08-06 23:31:51,230] {scheduler_job.py:181} INFO - Started process (PID=96789) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:31:51,231] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:31:51,231] {logging_mixin.py:104} INFO - [2021-08-06 23:31:51,231] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:31:51,236] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:31:51,240] {logging_mixin.py:104} INFO - [2021-08-06 23:31:51,240] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:31:51,265] {logging_mixin.py:104} INFO - [2021-08-06 23:31:51,264] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:31:51,271] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 23:33:11,926] {scheduler_job.py:181} INFO - Started process (PID=96880) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:33:11,926] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:33:11,927] {logging_mixin.py:104} INFO - [2021-08-06 23:33:11,927] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:33:11,932] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:33:12,160] {logging_mixin.py:104} INFO - [2021-08-06 23:33:12,160] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:33:12,166] {logging_mixin.py:104} INFO - [2021-08-06 23:33:12,166] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:33:12,175] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.250 seconds
+[2021-08-06 23:34:37,515] {scheduler_job.py:181} INFO - Started process (PID=96983) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:34:37,517] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:34:37,517] {logging_mixin.py:104} INFO - [2021-08-06 23:34:37,517] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:34:37,527] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:34:37,530] {logging_mixin.py:104} INFO - [2021-08-06 23:34:37,530] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:34:37,555] {logging_mixin.py:104} INFO - [2021-08-06 23:34:37,554] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:34:37,561] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.046 seconds
+[2021-08-06 23:35:34,752] {scheduler_job.py:181} INFO - Started process (PID=97048) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:35:34,754] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:35:34,754] {logging_mixin.py:104} INFO - [2021-08-06 23:35:34,754] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:35:34,762] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:35:34,989] {logging_mixin.py:104} INFO - [2021-08-06 23:35:34,989] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:35:34,996] {logging_mixin.py:104} INFO - [2021-08-06 23:35:34,996] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:35:35,004] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.253 seconds
+[2021-08-06 23:36:56,993] {scheduler_job.py:181} INFO - Started process (PID=97142) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:36:56,993] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:36:56,993] {logging_mixin.py:104} INFO - [2021-08-06 23:36:56,993] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:36:56,999] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:36:57,226] {logging_mixin.py:104} INFO - [2021-08-06 23:36:57,225] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:36:57,232] {logging_mixin.py:104} INFO - [2021-08-06 23:36:57,232] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:36:57,241] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.248 seconds
+[2021-08-06 23:38:16,475] {scheduler_job.py:181} INFO - Started process (PID=97234) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:38:16,476] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:38:16,477] {logging_mixin.py:104} INFO - [2021-08-06 23:38:16,477] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:38:16,482] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:38:16,486] {logging_mixin.py:104} INFO - [2021-08-06 23:38:16,486] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:38:16,510] {logging_mixin.py:104} INFO - [2021-08-06 23:38:16,510] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:38:16,516] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 23:39:36,522] {scheduler_job.py:181} INFO - Started process (PID=97331) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:39:36,523] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:39:36,523] {logging_mixin.py:104} INFO - [2021-08-06 23:39:36,523] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:39:36,529] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:39:36,757] {logging_mixin.py:104} INFO - [2021-08-06 23:39:36,757] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:39:36,764] {logging_mixin.py:104} INFO - [2021-08-06 23:39:36,763] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:39:36,773] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.251 seconds
+[2021-08-06 23:40:59,050] {scheduler_job.py:181} INFO - Started process (PID=97427) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:40:59,051] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:40:59,051] {logging_mixin.py:104} INFO - [2021-08-06 23:40:59,051] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:40:59,058] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:40:59,062] {logging_mixin.py:104} INFO - [2021-08-06 23:40:59,061] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:40:59,083] {logging_mixin.py:104} INFO - [2021-08-06 23:40:59,083] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:40:59,091] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 23:42:18,675] {scheduler_job.py:181} INFO - Started process (PID=97520) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:42:18,677] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:42:18,677] {logging_mixin.py:104} INFO - [2021-08-06 23:42:18,677] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:42:18,685] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:42:18,912] {logging_mixin.py:104} INFO - [2021-08-06 23:42:18,912] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:42:18,918] {logging_mixin.py:104} INFO - [2021-08-06 23:42:18,918] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:42:18,928] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.253 seconds
+[2021-08-06 23:43:38,831] {scheduler_job.py:181} INFO - Started process (PID=97612) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:43:38,831] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:43:38,832] {logging_mixin.py:104} INFO - [2021-08-06 23:43:38,832] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:43:38,839] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:43:38,842] {logging_mixin.py:104} INFO - [2021-08-06 23:43:38,842] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:43:38,865] {logging_mixin.py:104} INFO - [2021-08-06 23:43:38,865] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:43:38,874] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.044 seconds
+[2021-08-06 23:44:57,902] {scheduler_job.py:181} INFO - Started process (PID=97705) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:44:57,902] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:44:57,903] {logging_mixin.py:104} INFO - [2021-08-06 23:44:57,903] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:44:57,909] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:44:58,135] {logging_mixin.py:104} INFO - [2021-08-06 23:44:58,135] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:44:58,142] {logging_mixin.py:104} INFO - [2021-08-06 23:44:58,142] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:44:58,153] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.252 seconds
+[2021-08-06 23:46:13,572] {scheduler_job.py:181} INFO - Started process (PID=97793) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:46:13,572] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:46:13,572] {logging_mixin.py:104} INFO - [2021-08-06 23:46:13,572] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:46:13,578] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:46:13,581] {logging_mixin.py:104} INFO - [2021-08-06 23:46:13,581] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:46:13,605] {logging_mixin.py:104} INFO - [2021-08-06 23:46:13,605] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:46:13,613] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-06 23:47:32,692] {scheduler_job.py:181} INFO - Started process (PID=97888) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:47:32,692] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:47:32,693] {logging_mixin.py:104} INFO - [2021-08-06 23:47:32,693] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:47:32,702] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:47:32,976] {logging_mixin.py:104} INFO - [2021-08-06 23:47:32,975] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:47:32,982] {logging_mixin.py:104} INFO - [2021-08-06 23:47:32,982] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:47:32,992] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.301 seconds
+[2021-08-06 23:48:51,398] {scheduler_job.py:181} INFO - Started process (PID=97979) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:48:51,399] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-06 23:48:51,399] {logging_mixin.py:104} INFO - [2021-08-06 23:48:51,399] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:48:51,404] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-06 23:48:51,408] {logging_mixin.py:104} INFO - [2021-08-06 23:48:51,407] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-06 23:48:51,432] {logging_mixin.py:104} INFO - [2021-08-06 23:48:51,432] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-06 23:48:51,439] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.041 seconds
+[2021-08-07 00:00:39,616] {scheduler_job.py:181} INFO - Started process (PID=98156) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:00:39,619] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-07 00:00:39,619] {logging_mixin.py:104} INFO - [2021-08-07 00:00:39,619] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:00:39,638] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:00:39,907] {logging_mixin.py:104} INFO - [2021-08-07 00:00:39,906] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-07 00:00:39,913] {logging_mixin.py:104} INFO - [2021-08-07 00:00:39,913] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-07 00:00:39,922] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.307 seconds
+[2021-08-07 00:02:44,694] {scheduler_job.py:181} INFO - Started process (PID=98283) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:02:44,695] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-07 00:02:44,696] {logging_mixin.py:104} INFO - [2021-08-07 00:02:44,696] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:02:44,704] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:02:44,708] {logging_mixin.py:104} INFO - [2021-08-07 00:02:44,708] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-07 00:02:44,737] {logging_mixin.py:104} INFO - [2021-08-07 00:02:44,737] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-07 00:02:44,746] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.053 seconds
+[2021-08-07 00:04:07,164] {scheduler_job.py:181} INFO - Started process (PID=98432) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:04:07,165] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-07 00:04:07,165] {logging_mixin.py:104} INFO - [2021-08-07 00:04:07,165] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:04:07,174] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:04:07,444] {logging_mixin.py:104} INFO - [2021-08-07 00:04:07,444] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-07 00:04:07,450] {logging_mixin.py:104} INFO - [2021-08-07 00:04:07,450] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-07 00:04:07,461] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.298 seconds
+[2021-08-07 00:05:05,511] {scheduler_job.py:181} INFO - Started process (PID=98511) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:05:05,512] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-07 00:05:05,512] {logging_mixin.py:104} INFO - [2021-08-07 00:05:05,512] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:05:05,519] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:05:05,545] {logging_mixin.py:104} INFO - [2021-08-07 00:05:05,545] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-07 00:05:05,551] {logging_mixin.py:104} INFO - [2021-08-07 00:05:05,551] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-07 00:05:05,558] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.047 seconds
+[2021-08-07 00:06:07,046] {scheduler_job.py:181} INFO - Started process (PID=98579) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:06:07,047] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-07 00:06:07,047] {logging_mixin.py:104} INFO - [2021-08-07 00:06:07,047] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:06:07,053] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:06:07,303] {logging_mixin.py:104} INFO - [2021-08-07 00:06:07,302] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-07 00:06:07,310] {logging_mixin.py:104} INFO - [2021-08-07 00:06:07,310] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-07 00:06:07,320] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.275 seconds
+[2021-08-07 00:07:11,976] {scheduler_job.py:181} INFO - Started process (PID=98647) to work on /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:07:11,977] {scheduler_job.py:632} INFO - Processing file /Users/kennethlau/airflow/dags/Airflow.py for tasks to queue
+[2021-08-07 00:07:11,977] {logging_mixin.py:104} INFO - [2021-08-07 00:07:11,977] {dagbag.py:496} INFO - Filling up the DagBag from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:07:11,985] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/kennethlau/airflow/dags/Airflow.py
+[2021-08-07 00:07:12,010] {logging_mixin.py:104} INFO - [2021-08-07 00:07:12,010] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-08-07 00:07:12,015] {logging_mixin.py:104} INFO - [2021-08-07 00:07:12,015] {dag.py:2306} INFO - Setting next_dagrun for tutorial to 2021-08-07 00:00:00+00:00
+[2021-08-07 00:07:12,022] {scheduler_job.py:189} INFO - Processing /Users/kennethlau/airflow/dags/Airflow.py took 0.047 seconds
